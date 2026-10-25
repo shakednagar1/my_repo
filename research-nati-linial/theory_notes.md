@@ -98,6 +98,15 @@ use this structure. Neither difference changes the leading constants; both chang
 Let $P_k$ be the number of walks of length $k$ in $J(n,2)$ from $e$ to $f$ (disjoint). The spectral decomposition of
 $J(n,2)$ gives the **exact** count (checked numerically by matrix powers):
 $$P_k=\frac{(2n-4)^k}{N}-\frac{4\,(n-4)^k}{n(n-2)}+\frac{2\,(-2)^k}{(n-1)(n-2)} .$$
+**Proof of the walk count (proved).** Let $A$ be the adjacency matrix of $J(n,2)$, $J$ the all-ones matrix, and $B$ the
+"disjoint" matrix ($B_{ef}=1$ iff $e\cap f=\emptyset$), so $I+A+B=J$. Two edges sharing a vertex have $n-2$ common
+$J(n,2)$-neighbours; two disjoint edges have exactly $4$. Hence $A^2=(2n-4)I+(n-2)A+4B$, and substituting $B=J-I-A$,
+$$(A-(n-4)I)(A+2I)=4J .$$
+On $\mathbf 1^\perp$ the right side vanishes, so the only eigenvalues there are $n-4$ and $-2$; on $\mathbf 1$ the eigenvalue is $2n-4$.
+The spectral projections are $E_0=J/N$, $E_1=\big(A+2I-\tfrac{2n-2}{N}J\big)/(n-2)$, $E_2=I-E_0-E_1$, and $A^k=(2n-4)^kE_0+(n-4)^kE_1+(-2)^kE_2$.
+For disjoint $e,f$ we have $I_{ef}=A_{ef}=0$, so $(E_0)_{ef}=1/N$, $(E_1)_{ef}=-4/(n(n-2))$, $(E_2)_{ef}=2/((n-1)(n-2))$, which is the formula.
+Check: $n=4$ ($J(4,2)$ is the octahedron) gives $P_2=4$, $P_3=8$; matrix powers for $n=4,5,6$, $k\le4$ agree.
+
 Take a minimal path; it uses distinct triangles, so its weight is $\Gamma(k,1)$ and $\Pr[\le t]\le t^k/k!$.
 A union bound over walks, after dropping the negative middle term, gives **for every $n\ge4$ and every $t>0$**:
 $$\Pr\big[d(e,f)\le t\big]\;\le\;\frac{e^{2(n-2)t}-1}{N}+\frac{2\,(e^{2t}-1)}{(n-1)(n-2)} .$$
