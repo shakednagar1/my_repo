@@ -1,0 +1,53 @@
+{
+  "dijkstra_vs_networkx_max_abs_err": 0.0,
+  "gen_M_mean_vs_expected": [
+    64082.9,
+    64055.27386076222
+  ],
+  "gen_weight_mean_vs_expected": [
+    0.014939628297076867,
+    0.014925001124975856
+  ],
+  "diameter_candidate_vs_exact": {
+    "dim2_n15": {
+      "match": 1.0,
+      "max_rel_gap": 0.0
+    },
+    "dim2_n20": {
+      "match": 1.0,
+      "max_rel_gap": 0.0
+    },
+    "dim2_n30": {
+      "match": 1.0,
+      "max_rel_gap": 0.0
+    },
+    "dim2_n40": {
+      "match": 1.0,
+      "max_rel_gap": 0.0
+    },
+    "dim2_n60": {
+      "match": 1.0,
+      "max_rel_gap": 0.0
+    },
+    "dim2_n80": {
+      "match": 1.0,
+      "max_rel_gap": 0.0
+    },
+    "dim1_n50": {
+      "match": 1.0,
+      "max_rel_gap": 0.0
+    },
+    "dim1_n100": {
+      "match": 1.0,
+      "max_rel_gap": 0.0
+    },
+    "dim1_n200": {
+      "match": 1.0,
+      "max_rel_gap": 0.0
+    },
+    "dim1_n400": {
+      "match": 1.0,
+      "max_rel_gap": 0.0
+    }
+  }
+}

@@ -1,0 +1,55 @@
+19:22:37  project folder: /mnt/c/Users/user/Desktop/Janson2D_Simplicial_Experiment
+19:22:37  --- dim=2 n=30 reps=20 diam=True est. M=2.22e+03 simplices, 0.00 GB
+19:22:37  n=    30 rep=  0  pair*n/ln n= 0.351  ecc*n/ln n= 2.703  diam*n/ln n= 4.051  M=2.26e+03 layers=1 exact=True cand=0  0.5s
+19:22:37  n=    30 rep=  1  pair*n/ln n= 1.512  ecc*n/ln n= 2.910  diam*n/ln n= 4.950  M=2.21e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep=  2  pair*n/ln n= 2.910  ecc*n/ln n= 5.240  diam*n/ln n= 5.298  M=2.2e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep=  3  pair*n/ln n= 1.274  ecc*n/ln n= 2.565  diam*n/ln n= 4.144  M=2.21e+03 layers=1 exact=True cand=1  0.0s
+19:22:37  n=    30 rep=  4  pair*n/ln n= 1.039  ecc*n/ln n= 2.730  diam*n/ln n= 4.307  M=2.18e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep=  5  pair*n/ln n= 1.360  ecc*n/ln n= 3.575  diam*n/ln n= 5.664  M=2.21e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep=  6  pair*n/ln n= 0.638  ecc*n/ln n= 3.507  diam*n/ln n= 5.402  M=2.22e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep=  7  pair*n/ln n= 0.775  ecc*n/ln n= 2.545  diam*n/ln n= 4.176  M=2.24e+03 layers=1 exact=True cand=1  0.0s
+19:22:37  n=    30 rep=  8  pair*n/ln n= 1.451  ecc*n/ln n= 4.174  diam*n/ln n= 5.311  M=2.2e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep=  9  pair*n/ln n= 1.531  ecc*n/ln n= 3.897  diam*n/ln n= 5.716  M=2.2e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep= 10  pair*n/ln n= 1.475  ecc*n/ln n= 2.884  diam*n/ln n= 4.498  M=2.22e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep= 11  pair*n/ln n= 0.773  ecc*n/ln n= 3.236  diam*n/ln n= 5.271  M=2.22e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep= 12  pair*n/ln n= 2.469  ecc*n/ln n= 3.301  diam*n/ln n= 5.428  M=2.21e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep= 13  pair*n/ln n= 2.589  ecc*n/ln n= 2.915  diam*n/ln n= 4.267  M=2.24e+03 layers=1 exact=True cand=2  0.0s
+19:22:37  n=    30 rep= 14  pair*n/ln n= 1.175  ecc*n/ln n= 2.807  diam*n/ln n= 4.022  M=2.16e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep= 15  pair*n/ln n= 2.015  ecc*n/ln n= 3.275  diam*n/ln n= 4.405  M=2.24e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep= 16  pair*n/ln n= 0.948  ecc*n/ln n= 3.088  diam*n/ln n= 5.816  M=2.17e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep= 17  pair*n/ln n= 2.134  ecc*n/ln n= 2.825  diam*n/ln n= 4.657  M=2.27e+03 layers=1 exact=True cand=1  0.0s
+19:22:37  n=    30 rep= 18  pair*n/ln n= 2.184  ecc*n/ln n= 3.977  diam*n/ln n= 5.786  M=2.24e+03 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    30 rep= 19  pair*n/ln n= 1.844  ecc*n/ln n= 3.774  diam*n/ln n= 5.441  M=2.25e+03 layers=1 exact=True cand=1  0.0s
+19:22:37  --- dim=2 n=60 reps=10 diam=True est. M=1.3e+04 simplices, 0.00 GB
+19:22:37  n=    60 rep=  0  pair*n/ln n= 0.866  ecc*n/ln n= 2.497  diam*n/ln n= 4.600  M=1.3e+04 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    60 rep=  1  pair*n/ln n= 1.560  ecc*n/ln n= 3.411  diam*n/ln n= 5.210  M=1.31e+04 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    60 rep=  2  pair*n/ln n= 1.068  ecc*n/ln n= 2.508  diam*n/ln n= 4.055  M=1.31e+04 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    60 rep=  3  pair*n/ln n= 1.861  ecc*n/ln n= 2.976  diam*n/ln n= 5.014  M=1.3e+04 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    60 rep=  4  pair*n/ln n= 1.298  ecc*n/ln n= 3.165  diam*n/ln n= 4.898  M=1.3e+04 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    60 rep=  5  pair*n/ln n= 1.109  ecc*n/ln n= 3.217  diam*n/ln n= 4.848  M=1.29e+04 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    60 rep=  6  pair*n/ln n= 1.482  ecc*n/ln n= 3.247  diam*n/ln n= 4.778  M=1.3e+04 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    60 rep=  7  pair*n/ln n= 0.950  ecc*n/ln n= 3.036  diam*n/ln n= 4.491  M=1.29e+04 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    60 rep=  8  pair*n/ln n= 0.829  ecc*n/ln n= 2.544  diam*n/ln n= 4.216  M=1.3e+04 layers=1 exact=True cand=0  0.0s
+19:22:37  n=    60 rep=  9  pair*n/ln n= 1.561  ecc*n/ln n= 3.405  diam*n/ln n= 4.922  M=1.3e+04 layers=1 exact=True cand=0  0.0s
+19:22:37  --- dim=2 n=120 reps=5 diam=True est. M=6.84e+04 simplices, 0.01 GB
+19:22:37  n=   120 rep=  0  pair*n/ln n= 1.537  ecc*n/ln n= 3.030  diam*n/ln n= 4.223  M=6.81e+04 layers=1 exact=True cand=0  0.1s
+19:22:37  n=   120 rep=  1  pair*n/ln n= 0.973  ecc*n/ln n= 3.077  diam*n/ln n= 5.087  M=6.87e+04 layers=1 exact=True cand=0  0.1s
+19:22:38  n=   120 rep=  2  pair*n/ln n= 0.940  ecc*n/ln n= 3.049  diam*n/ln n= 4.714  M=6.85e+04 layers=1 exact=True cand=0  0.1s
+19:22:38  n=   120 rep=  3  pair*n/ln n= 1.476  ecc*n/ln n= 3.144  diam*n/ln n= 4.447  M=6.84e+04 layers=1 exact=True cand=0  0.1s
+19:22:38  n=   120 rep=  4  pair*n/ln n= 1.386  ecc*n/ln n= 2.932  diam*n/ln n= 5.032  M=6.86e+04 layers=1 exact=True cand=0  0.1s
+19:22:40  summary (normalised by log n / n):
+19:22:40    n=    30 reps= 20  pair=1.522Â±0.305  ecc=3.296Â±0.293  diam=4.931Â±0.284
+19:22:40    n=    60 reps= 10  pair=1.258Â±0.216  ecc=3.000Â±0.224  diam=4.703Â±0.224
+19:22:40    n=   120 reps=  5  pair=1.262Â±0.250  ecc=3.046Â±0.068  diam=4.700Â±0.326
+19:22:40    pair : extrapolated a=0.583Â±1.136 (b=3.02), predicted 1, log-log slope -0.888
+19:22:40    ecc  : extrapolated a=2.608Â±0.692 (b=2.07), predicted 3, log-log slope -0.810
+19:22:40    diam : extrapolated a=4.014Â±1.255 (b=3.01), predicted 5, log-log slope -0.788
+12:53:22  project folder: C:\Users\user\Desktop\Janson2D_Simplicial_Experiment
+12:53:27  [report] updated results_dim2_quick.md and plots/dim2_quick_dashboard.png
+12:53:27  summary (normalised by log n / n):
+12:53:27    n=    30 reps= 20  pair=1.522±0.305  ecc=3.296±0.293  diam=4.931±0.284
+12:53:27    n=    60 reps= 10  pair=1.258±0.216  ecc=3.000±0.224  diam=4.703±0.224
+12:53:27    n=   120 reps=  5  pair=1.262±0.250  ecc=3.046±0.068  diam=4.700±0.326
+12:53:27    pair : extrapolated a=0.583±1.136 (b=3.02), predicted 1, log-log slope -0.888
+12:53:27    ecc  : extrapolated a=2.608±0.692 (b=2.07), predicted 3, log-log slope -0.810
+12:53:27    diam : extrapolated a=4.014±1.255 (b=3.01), predicted 5, log-log slope -0.788

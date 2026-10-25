@@ -1,0 +1,25 @@
+19:19:08  project folder: /mnt/c/Users/user/Desktop/Janson2D_Simplicial_Experiment
+19:19:15  [validate] Dijkstra vs networkx: max |err| = 0.00e+00
+19:19:15  [validate] triangle count mean 64083 vs expected 64055
+19:19:15  [validate] truncated weight mean 0.01494 vs 0.01493
+19:19:18  [validate] diameter dim=2 n=15: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:19:19  [validate] diameter dim=2 n=20: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:19:19  [validate] diameter dim=2 n=30: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:19:21  [validate] diameter dim=2 n=40: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:19:25  [validate] diameter dim=1 n=50: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:19:25  [validate] diameter dim=1 n=100: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:19:25  [validate] diameter dim=1 n=200: candidate == exact in 19/20, max rel. gap 2.19e-02
+19:19:35  project folder: /mnt/c/Users/user/Desktop/Janson2D_Simplicial_Experiment
+19:19:41  [validate] Dijkstra vs networkx: max |err| = 0.00e+00
+19:19:41  [validate] triangle count mean 64083 vs expected 64055
+19:19:41  [validate] truncated weight mean 0.01494 vs 0.01493
+19:19:46  [validate] diameter dim=2 n=15: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:19:47  [validate] diameter dim=2 n=20: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:19:48  [validate] diameter dim=2 n=30: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:19:53  [validate] diameter dim=2 n=40: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:20:29  [validate] diameter dim=2 n=60: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:22:30  [validate] diameter dim=2 n=80: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:22:34  [validate] diameter dim=1 n=50: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:22:34  [validate] diameter dim=1 n=100: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:22:34  [validate] diameter dim=1 n=200: candidate == exact in 20/20, max rel. gap 0.00e+00
+19:22:35  [validate] diameter dim=1 n=400: candidate == exact in 20/20, max rel. gap 0.00e+00

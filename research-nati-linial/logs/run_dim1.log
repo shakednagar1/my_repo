@@ -1,0 +1,1122 @@
+12:58:50  project folder: C:\Users\user\Desktop\Janson2D_Simplicial_Experiment
+12:58:50  --- dim=1 n=100 reps=400 diam=True est. M=1.36e+03 simplices, 0.00 GB, 12 threads
+12:58:58  n=   100 rep=  0  pair*n/ln n= 1.881  ecc*n/ln n= 1.904  diam*n/ln n= 2.815  M=1.39e+03 layers=1 exact=True cand=0  7.8s
+12:58:58  n=   100 rep=  1  pair*n/ln n= 0.883  ecc*n/ln n= 1.989  diam*n/ln n= 2.941  M=1.33e+03 layers=1 exact=True cand=10  0.0s
+12:58:58  n=   100 rep=  2  pair*n/ln n= 0.984  ecc*n/ln n= 2.108  diam*n/ln n= 3.087  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=  3  pair*n/ln n= 1.096  ecc*n/ln n= 2.652  diam*n/ln n= 4.071  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=  4  pair*n/ln n= 1.040  ecc*n/ln n= 1.679  diam*n/ln n= 2.645  M=1.39e+03 layers=1 exact=True cand=6  0.0s
+12:58:58  n=   100 rep=  5  pair*n/ln n= 2.016  ecc*n/ln n= 3.149  diam*n/ln n= 3.149  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=  6  pair*n/ln n= 0.988  ecc*n/ln n= 1.871  diam*n/ln n= 2.445  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=  7  pair*n/ln n= 1.361  ecc*n/ln n= 2.393  diam*n/ln n= 2.882  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=  8  pair*n/ln n= 1.173  ecc*n/ln n= 2.674  diam*n/ln n= 3.804  M=1.42e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=  9  pair*n/ln n= 0.965  ecc*n/ln n= 1.964  diam*n/ln n= 3.030  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 10  pair*n/ln n= 0.897  ecc*n/ln n= 2.439  diam*n/ln n= 3.692  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 11  pair*n/ln n= 1.755  ecc*n/ln n= 2.215  diam*n/ln n= 2.660  M=1.38e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep= 12  pair*n/ln n= 1.143  ecc*n/ln n= 2.244  diam*n/ln n= 3.030  M=1.38e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 13  pair*n/ln n= 1.886  ecc*n/ln n= 2.677  diam*n/ln n= 2.995  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 14  pair*n/ln n= 0.878  ecc*n/ln n= 1.520  diam*n/ln n= 2.604  M=1.36e+03 layers=1 exact=True cand=7  0.0s
+12:58:58  n=   100 rep= 15  pair*n/ln n= 0.707  ecc*n/ln n= 1.696  diam*n/ln n= 2.849  M=1.31e+03 layers=1 exact=True cand=15  0.0s
+12:58:58  n=   100 rep= 16  pair*n/ln n= 2.070  ecc*n/ln n= 3.243  diam*n/ln n= 3.243  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 17  pair*n/ln n= 0.693  ecc*n/ln n= 2.257  diam*n/ln n= 3.209  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 18  pair*n/ln n= 0.300  ecc*n/ln n= 2.152  diam*n/ln n= 2.959  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 19  pair*n/ln n= 1.193  ecc*n/ln n= 2.149  diam*n/ln n= 3.262  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 20  pair*n/ln n= 1.471  ecc*n/ln n= 1.826  diam*n/ln n= 2.602  M=1.41e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 21  pair*n/ln n= 1.711  ecc*n/ln n= 2.088  diam*n/ln n= 2.712  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 22  pair*n/ln n= 0.510  ecc*n/ln n= 2.181  diam*n/ln n= 2.926  M=1.38e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep= 23  pair*n/ln n= 1.568  ecc*n/ln n= 2.800  diam*n/ln n= 3.013  M=1.38e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep= 24  pair*n/ln n= 0.287  ecc*n/ln n= 2.119  diam*n/ln n= 3.002  M=1.35e+03 layers=1 exact=True cand=7  0.0s
+12:58:58  n=   100 rep= 25  pair*n/ln n= 1.130  ecc*n/ln n= 2.404  diam*n/ln n= 4.040  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 26  pair*n/ln n= 1.737  ecc*n/ln n= 2.075  diam*n/ln n= 3.203  M=1.37e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep= 27  pair*n/ln n= 0.330  ecc*n/ln n= 1.936  diam*n/ln n= 2.905  M=1.29e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 28  pair*n/ln n= 1.814  ecc*n/ln n= 2.301  diam*n/ln n= 3.241  M=1.36e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 29  pair*n/ln n= 0.962  ecc*n/ln n= 2.189  diam*n/ln n= 2.773  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 30  pair*n/ln n= 2.046  ecc*n/ln n= 3.357  diam*n/ln n= 3.357  M=1.29e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep= 31  pair*n/ln n= 1.045  ecc*n/ln n= 1.953  diam*n/ln n= 2.977  M=1.37e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 32  pair*n/ln n= 1.215  ecc*n/ln n= 3.755  diam*n/ln n= 4.542  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 33  pair*n/ln n= 1.553  ecc*n/ln n= 3.040  diam*n/ln n= 3.645  M=1.31e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 34  pair*n/ln n= 0.215  ecc*n/ln n= 1.798  diam*n/ln n= 2.821  M=1.34e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 35  pair*n/ln n= 1.177  ecc*n/ln n= 1.895  diam*n/ln n= 2.936  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 36  pair*n/ln n= 0.923  ecc*n/ln n= 2.288  diam*n/ln n= 3.263  M=1.38e+03 layers=1 exact=True cand=5  0.0s
+12:58:58  n=   100 rep= 37  pair*n/ln n= 0.975  ecc*n/ln n= 1.730  diam*n/ln n= 2.763  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 38  pair*n/ln n= 1.322  ecc*n/ln n= 2.207  diam*n/ln n= 3.149  M=1.33e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep= 39  pair*n/ln n= 1.316  ecc*n/ln n= 2.173  diam*n/ln n= 3.095  M=1.36e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep= 40  pair*n/ln n= 0.999  ecc*n/ln n= 2.300  diam*n/ln n= 3.355  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 41  pair*n/ln n= 0.948  ecc*n/ln n= 2.133  diam*n/ln n= 3.333  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 42  pair*n/ln n= 1.402  ecc*n/ln n= 2.379  diam*n/ln n= 3.143  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 43  pair*n/ln n= 2.135  ecc*n/ln n= 3.121  diam*n/ln n= 3.458  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 44  pair*n/ln n= 1.037  ecc*n/ln n= 1.867  diam*n/ln n= 3.008  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 45  pair*n/ln n= 1.370  ecc*n/ln n= 2.477  diam*n/ln n= 2.926  M=1.3e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 46  pair*n/ln n= 0.605  ecc*n/ln n= 1.727  diam*n/ln n= 2.802  M=1.38e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep= 47  pair*n/ln n= 1.094  ecc*n/ln n= 2.289  diam*n/ln n= 3.671  M=1.4e+03 layers=1 exact=True cand=7  0.0s
+12:58:58  n=   100 rep= 48  pair*n/ln n= 0.176  ecc*n/ln n= 1.781  diam*n/ln n= 3.010  M=1.34e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep= 49  pair*n/ln n= 1.478  ecc*n/ln n= 2.913  diam*n/ln n= 2.990  M=1.39e+03 layers=1 exact=True cand=7  0.0s
+12:58:58  n=   100 rep= 50  pair*n/ln n= 0.798  ecc*n/ln n= 2.013  diam*n/ln n= 2.957  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 51  pair*n/ln n= 1.195  ecc*n/ln n= 2.444  diam*n/ln n= 3.110  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 52  pair*n/ln n= 0.923  ecc*n/ln n= 2.166  diam*n/ln n= 2.904  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 53  pair*n/ln n= 1.345  ecc*n/ln n= 1.913  diam*n/ln n= 3.391  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 54  pair*n/ln n= 1.471  ecc*n/ln n= 1.723  diam*n/ln n= 2.553  M=1.36e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep= 55  pair*n/ln n= 1.146  ecc*n/ln n= 1.862  diam*n/ln n= 3.310  M=1.36e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 56  pair*n/ln n= 1.707  ecc*n/ln n= 2.401  diam*n/ln n= 2.732  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 57  pair*n/ln n= 0.559  ecc*n/ln n= 2.010  diam*n/ln n= 3.403  M=1.42e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 58  pair*n/ln n= 1.408  ecc*n/ln n= 2.317  diam*n/ln n= 2.433  M=1.41e+03 layers=1 exact=True cand=8  0.0s
+12:58:58  n=   100 rep= 59  pair*n/ln n= 1.255  ecc*n/ln n= 1.717  diam*n/ln n= 3.207  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 60  pair*n/ln n= 1.027  ecc*n/ln n= 1.911  diam*n/ln n= 3.126  M=1.36e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 61  pair*n/ln n= 0.431  ecc*n/ln n= 2.211  diam*n/ln n= 3.301  M=1.31e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 62  pair*n/ln n= 1.753  ecc*n/ln n= 2.648  diam*n/ln n= 2.772  M=1.38e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 63  pair*n/ln n= 1.551  ecc*n/ln n= 2.392  diam*n/ln n= 3.164  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 64  pair*n/ln n= 0.732  ecc*n/ln n= 1.927  diam*n/ln n= 3.082  M=1.4e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 65  pair*n/ln n= 1.481  ecc*n/ln n= 3.390  diam*n/ln n= 3.390  M=1.3e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 66  pair*n/ln n= 0.648  ecc*n/ln n= 2.216  diam*n/ln n= 3.271  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 67  pair*n/ln n= 1.182  ecc*n/ln n= 2.363  diam*n/ln n= 3.180  M=1.37e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep= 68  pair*n/ln n= 1.464  ecc*n/ln n= 2.844  diam*n/ln n= 3.110  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 69  pair*n/ln n= 0.293  ecc*n/ln n= 1.885  diam*n/ln n= 2.411  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 70  pair*n/ln n= 1.024  ecc*n/ln n= 1.970  diam*n/ln n= 2.712  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 71  pair*n/ln n= 1.134  ecc*n/ln n= 2.388  diam*n/ln n= 3.348  M=1.35e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 72  pair*n/ln n= 1.359  ecc*n/ln n= 1.652  diam*n/ln n= 2.916  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 73  pair*n/ln n= 1.101  ecc*n/ln n= 1.923  diam*n/ln n= 2.699  M=1.36e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep= 74  pair*n/ln n= 1.301  ecc*n/ln n= 2.716  diam*n/ln n= 3.233  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 75  pair*n/ln n= 1.256  ecc*n/ln n= 2.650  diam*n/ln n= 3.506  M=1.37e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 76  pair*n/ln n= 0.970  ecc*n/ln n= 2.409  diam*n/ln n= 3.279  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 77  pair*n/ln n= 1.687  ecc*n/ln n= 2.227  diam*n/ln n= 3.140  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 78  pair*n/ln n= 0.350  ecc*n/ln n= 1.886  diam*n/ln n= 2.675  M=1.38e+03 layers=1 exact=True cand=6  0.0s
+12:58:58  n=   100 rep= 79  pair*n/ln n= 0.792  ecc*n/ln n= 1.951  diam*n/ln n= 2.906  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 80  pair*n/ln n= 1.445  ecc*n/ln n= 1.943  diam*n/ln n= 3.107  M=1.43e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep= 81  pair*n/ln n= 0.781  ecc*n/ln n= 2.961  diam*n/ln n= 3.582  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 82  pair*n/ln n= 0.608  ecc*n/ln n= 1.509  diam*n/ln n= 2.609  M=1.37e+03 layers=1 exact=True cand=5  0.0s
+12:58:58  n=   100 rep= 83  pair*n/ln n= 1.123  ecc*n/ln n= 1.993  diam*n/ln n= 2.817  M=1.36e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 84  pair*n/ln n= 0.816  ecc*n/ln n= 1.598  diam*n/ln n= 2.862  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 85  pair*n/ln n= 0.920  ecc*n/ln n= 2.141  diam*n/ln n= 3.123  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 86  pair*n/ln n= 0.813  ecc*n/ln n= 1.902  diam*n/ln n= 2.968  M=1.38e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep= 87  pair*n/ln n= 0.492  ecc*n/ln n= 1.817  diam*n/ln n= 2.995  M=1.35e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep= 88  pair*n/ln n= 1.036  ecc*n/ln n= 2.039  diam*n/ln n= 3.778  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 89  pair*n/ln n= 1.920  ecc*n/ln n= 2.434  diam*n/ln n= 2.529  M=1.44e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep= 90  pair*n/ln n= 1.222  ecc*n/ln n= 2.940  diam*n/ln n= 2.940  M=1.33e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep= 91  pair*n/ln n= 0.991  ecc*n/ln n= 2.335  diam*n/ln n= 3.828  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 92  pair*n/ln n= 0.965  ecc*n/ln n= 1.822  diam*n/ln n= 2.838  M=1.36e+03 layers=1 exact=True cand=8  0.0s
+12:58:58  n=   100 rep= 93  pair*n/ln n= 1.790  ecc*n/ln n= 2.647  diam*n/ln n= 3.066  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 94  pair*n/ln n= 0.682  ecc*n/ln n= 1.993  diam*n/ln n= 3.086  M=1.35e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 95  pair*n/ln n= 1.553  ecc*n/ln n= 2.369  diam*n/ln n= 2.707  M=1.35e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep= 96  pair*n/ln n= 0.925  ecc*n/ln n= 1.770  diam*n/ln n= 2.771  M=1.37e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep= 97  pair*n/ln n= 2.367  ecc*n/ln n= 2.367  diam*n/ln n= 3.161  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 98  pair*n/ln n= 1.657  ecc*n/ln n= 2.553  diam*n/ln n= 2.881  M=1.42e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep= 99  pair*n/ln n= 0.607  ecc*n/ln n= 1.942  diam*n/ln n= 2.838  M=1.3e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=100  pair*n/ln n= 0.605  ecc*n/ln n= 1.601  diam*n/ln n= 2.864  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=101  pair*n/ln n= 1.376  ecc*n/ln n= 2.660  diam*n/ln n= 3.387  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=102  pair*n/ln n= 1.047  ecc*n/ln n= 2.767  diam*n/ln n= 3.320  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=103  pair*n/ln n= 0.529  ecc*n/ln n= 1.838  diam*n/ln n= 2.792  M=1.34e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=104  pair*n/ln n= 1.556  ecc*n/ln n= 3.218  diam*n/ln n= 4.282  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=105  pair*n/ln n= 1.183  ecc*n/ln n= 2.047  diam*n/ln n= 2.806  M=1.37e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep=106  pair*n/ln n= 0.224  ecc*n/ln n= 1.999  diam*n/ln n= 3.325  M=1.4e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=107  pair*n/ln n= 1.456  ecc*n/ln n= 1.761  diam*n/ln n= 3.127  M=1.4e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=108  pair*n/ln n= 1.311  ecc*n/ln n= 1.975  diam*n/ln n= 2.861  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=109  pair*n/ln n= 0.971  ecc*n/ln n= 1.707  diam*n/ln n= 2.388  M=1.36e+03 layers=1 exact=True cand=7  0.0s
+12:58:58  n=   100 rep=110  pair*n/ln n= 1.529  ecc*n/ln n= 2.526  diam*n/ln n= 2.687  M=1.35e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep=111  pair*n/ln n= 0.836  ecc*n/ln n= 2.160  diam*n/ln n= 2.988  M=1.44e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=112  pair*n/ln n= 1.167  ecc*n/ln n= 2.428  diam*n/ln n= 3.169  M=1.35e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=113  pair*n/ln n= 1.250  ecc*n/ln n= 2.364  diam*n/ln n= 2.706  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=114  pair*n/ln n= 1.214  ecc*n/ln n= 2.135  diam*n/ln n= 3.278  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=115  pair*n/ln n= 2.647  ecc*n/ln n= 2.683  diam*n/ln n= 3.325  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=116  pair*n/ln n= 0.963  ecc*n/ln n= 2.150  diam*n/ln n= 2.594  M=1.38e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=117  pair*n/ln n= 1.063  ecc*n/ln n= 1.675  diam*n/ln n= 2.842  M=1.33e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=118  pair*n/ln n= 1.001  ecc*n/ln n= 3.093  diam*n/ln n= 3.835  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=119  pair*n/ln n= 1.509  ecc*n/ln n= 2.116  diam*n/ln n= 2.992  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=120  pair*n/ln n= 0.853  ecc*n/ln n= 1.885  diam*n/ln n= 2.807  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=121  pair*n/ln n= 1.050  ecc*n/ln n= 3.160  diam*n/ln n= 3.374  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=122  pair*n/ln n= 0.361  ecc*n/ln n= 1.933  diam*n/ln n= 3.180  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=123  pair*n/ln n= 1.293  ecc*n/ln n= 2.533  diam*n/ln n= 3.257  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=124  pair*n/ln n= 1.915  ecc*n/ln n= 1.964  diam*n/ln n= 2.736  M=1.41e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=125  pair*n/ln n= 1.191  ecc*n/ln n= 1.962  diam*n/ln n= 2.974  M=1.36e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=126  pair*n/ln n= 1.732  ecc*n/ln n= 2.344  diam*n/ln n= 3.226  M=1.31e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=127  pair*n/ln n= 0.695  ecc*n/ln n= 1.893  diam*n/ln n= 3.145  M=1.42e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=128  pair*n/ln n= 0.746  ecc*n/ln n= 2.160  diam*n/ln n= 2.790  M=1.32e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep=129  pair*n/ln n= 1.191  ecc*n/ln n= 2.669  diam*n/ln n= 3.151  M=1.31e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep=130  pair*n/ln n= 1.014  ecc*n/ln n= 1.986  diam*n/ln n= 2.535  M=1.35e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=131  pair*n/ln n= 1.870  ecc*n/ln n= 2.563  diam*n/ln n= 3.052  M=1.37e+03 layers=1 exact=True cand=6  0.0s
+12:58:58  n=   100 rep=132  pair*n/ln n= 0.655  ecc*n/ln n= 2.060  diam*n/ln n= 3.095  M=1.45e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=133  pair*n/ln n= 0.502  ecc*n/ln n= 1.588  diam*n/ln n= 2.626  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=134  pair*n/ln n= 1.341  ecc*n/ln n= 2.529  diam*n/ln n= 2.529  M=1.37e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep=135  pair*n/ln n= 0.424  ecc*n/ln n= 2.310  diam*n/ln n= 3.224  M=1.43e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=136  pair*n/ln n= 1.126  ecc*n/ln n= 2.338  diam*n/ln n= 3.068  M=1.33e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep=137  pair*n/ln n= 1.295  ecc*n/ln n= 2.682  diam*n/ln n= 3.847  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=138  pair*n/ln n= 0.217  ecc*n/ln n= 2.061  diam*n/ln n= 3.067  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=139  pair*n/ln n= 1.117  ecc*n/ln n= 2.185  diam*n/ln n= 3.062  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=140  pair*n/ln n= 0.825  ecc*n/ln n= 2.403  diam*n/ln n= 3.344  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=141  pair*n/ln n= 0.953  ecc*n/ln n= 1.847  diam*n/ln n= 2.562  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=142  pair*n/ln n= 0.702  ecc*n/ln n= 1.804  diam*n/ln n= 2.336  M=1.43e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=143  pair*n/ln n= 1.077  ecc*n/ln n= 2.353  diam*n/ln n= 3.299  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=144  pair*n/ln n= 0.556  ecc*n/ln n= 1.628  diam*n/ln n= 2.732  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=145  pair*n/ln n= 1.027  ecc*n/ln n= 1.830  diam*n/ln n= 2.700  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=146  pair*n/ln n= 1.348  ecc*n/ln n= 1.874  diam*n/ln n= 2.558  M=1.34e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=147  pair*n/ln n= 0.381  ecc*n/ln n= 2.374  diam*n/ln n= 3.030  M=1.35e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=148  pair*n/ln n= 1.092  ecc*n/ln n= 2.235  diam*n/ln n= 3.449  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=149  pair*n/ln n= 1.925  ecc*n/ln n= 1.925  diam*n/ln n= 2.589  M=1.42e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=150  pair*n/ln n= 1.444  ecc*n/ln n= 2.704  diam*n/ln n= 3.498  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=151  pair*n/ln n= 1.917  ecc*n/ln n= 2.231  diam*n/ln n= 2.961  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=152  pair*n/ln n= 1.423  ecc*n/ln n= 3.177  diam*n/ln n= 3.408  M=1.3e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=153  pair*n/ln n= 0.479  ecc*n/ln n= 2.624  diam*n/ln n= 4.035  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=154  pair*n/ln n= 0.671  ecc*n/ln n= 1.925  diam*n/ln n= 3.155  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=155  pair*n/ln n= 1.416  ecc*n/ln n= 2.032  diam*n/ln n= 3.085  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=156  pair*n/ln n= 0.810  ecc*n/ln n= 2.474  diam*n/ln n= 2.841  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=157  pair*n/ln n= 1.627  ecc*n/ln n= 2.460  diam*n/ln n= 3.080  M=1.39e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=158  pair*n/ln n= 1.337  ecc*n/ln n= 2.177  diam*n/ln n= 3.173  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=159  pair*n/ln n= 0.826  ecc*n/ln n= 2.026  diam*n/ln n= 3.059  M=1.33e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=160  pair*n/ln n= 1.264  ecc*n/ln n= 2.239  diam*n/ln n= 2.658  M=1.38e+03 layers=1 exact=True cand=6  0.0s
+12:58:58  n=   100 rep=161  pair*n/ln n= 0.729  ecc*n/ln n= 2.365  diam*n/ln n= 3.238  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=162  pair*n/ln n= 1.136  ecc*n/ln n= 2.324  diam*n/ln n= 3.276  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=163  pair*n/ln n= 1.020  ecc*n/ln n= 2.207  diam*n/ln n= 2.755  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=164  pair*n/ln n= 1.100  ecc*n/ln n= 1.882  diam*n/ln n= 3.069  M=1.37e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=165  pair*n/ln n= 0.801  ecc*n/ln n= 1.840  diam*n/ln n= 3.170  M=1.38e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=166  pair*n/ln n= 0.709  ecc*n/ln n= 1.736  diam*n/ln n= 2.670  M=1.42e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=167  pair*n/ln n= 0.903  ecc*n/ln n= 2.532  diam*n/ln n= 3.155  M=1.39e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep=168  pair*n/ln n= 0.979  ecc*n/ln n= 2.275  diam*n/ln n= 3.206  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=169  pair*n/ln n= 1.247  ecc*n/ln n= 2.309  diam*n/ln n= 3.448  M=1.31e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=170  pair*n/ln n= 1.078  ecc*n/ln n= 1.994  diam*n/ln n= 2.631  M=1.37e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=171  pair*n/ln n= 1.550  ecc*n/ln n= 2.510  diam*n/ln n= 2.986  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=172  pair*n/ln n= 0.467  ecc*n/ln n= 1.754  diam*n/ln n= 2.609  M=1.43e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=173  pair*n/ln n= 1.765  ecc*n/ln n= 2.505  diam*n/ln n= 2.842  M=1.37e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=174  pair*n/ln n= 0.857  ecc*n/ln n= 2.333  diam*n/ln n= 3.410  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=175  pair*n/ln n= 1.186  ecc*n/ln n= 1.982  diam*n/ln n= 2.767  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=176  pair*n/ln n= 1.300  ecc*n/ln n= 2.581  diam*n/ln n= 3.570  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=177  pair*n/ln n= 0.686  ecc*n/ln n= 2.033  diam*n/ln n= 3.018  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=178  pair*n/ln n= 1.428  ecc*n/ln n= 2.838  diam*n/ln n= 3.569  M=1.28e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=179  pair*n/ln n= 0.691  ecc*n/ln n= 2.014  diam*n/ln n= 3.049  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=180  pair*n/ln n= 0.982  ecc*n/ln n= 1.932  diam*n/ln n= 3.300  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=181  pair*n/ln n= 1.038  ecc*n/ln n= 2.462  diam*n/ln n= 3.625  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=182  pair*n/ln n= 1.569  ecc*n/ln n= 2.709  diam*n/ln n= 2.709  M=1.34e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=183  pair*n/ln n= 1.844  ecc*n/ln n= 2.037  diam*n/ln n= 2.471  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=184  pair*n/ln n= 1.516  ecc*n/ln n= 2.362  diam*n/ln n= 2.716  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=185  pair*n/ln n= 1.101  ecc*n/ln n= 2.397  diam*n/ln n= 3.100  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=186  pair*n/ln n= 2.278  ecc*n/ln n= 2.759  diam*n/ln n= 2.759  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=187  pair*n/ln n= 1.921  ecc*n/ln n= 2.741  diam*n/ln n= 3.143  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=188  pair*n/ln n= 1.593  ecc*n/ln n= 2.497  diam*n/ln n= 3.216  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=189  pair*n/ln n= 2.175  ecc*n/ln n= 2.320  diam*n/ln n= 3.355  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=190  pair*n/ln n= 1.729  ecc*n/ln n= 2.956  diam*n/ln n= 3.062  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=191  pair*n/ln n= 0.136  ecc*n/ln n= 2.274  diam*n/ln n= 3.755  M=1.43e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=192  pair*n/ln n= 0.516  ecc*n/ln n= 2.219  diam*n/ln n= 3.248  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=193  pair*n/ln n= 0.596  ecc*n/ln n= 2.086  diam*n/ln n= 3.144  M=1.37e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=194  pair*n/ln n= 1.443  ecc*n/ln n= 2.411  diam*n/ln n= 2.411  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=195  pair*n/ln n= 0.481  ecc*n/ln n= 1.547  diam*n/ln n= 2.512  M=1.38e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=196  pair*n/ln n= 1.786  ecc*n/ln n= 2.247  diam*n/ln n= 2.840  M=1.41e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep=197  pair*n/ln n= 0.811  ecc*n/ln n= 2.133  diam*n/ln n= 3.101  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=198  pair*n/ln n= 1.607  ecc*n/ln n= 1.754  diam*n/ln n= 2.601  M=1.39e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep=199  pair*n/ln n= 0.963  ecc*n/ln n= 1.820  diam*n/ln n= 2.947  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=200  pair*n/ln n= 1.689  ecc*n/ln n= 2.256  diam*n/ln n= 3.623  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=201  pair*n/ln n= 1.395  ecc*n/ln n= 2.643  diam*n/ln n= 3.412  M=1.35e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=202  pair*n/ln n= 0.757  ecc*n/ln n= 1.901  diam*n/ln n= 2.526  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=203  pair*n/ln n= 1.514  ecc*n/ln n= 2.955  diam*n/ln n= 3.562  M=1.31e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=204  pair*n/ln n= 2.133  ecc*n/ln n= 2.477  diam*n/ln n= 3.323  M=1.42e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=205  pair*n/ln n= 1.041  ecc*n/ln n= 2.295  diam*n/ln n= 3.183  M=1.38e+03 layers=1 exact=True cand=12  0.0s
+12:58:58  n=   100 rep=206  pair*n/ln n= 1.479  ecc*n/ln n= 2.659  diam*n/ln n= 3.049  M=1.29e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=207  pair*n/ln n= 1.720  ecc*n/ln n= 1.778  diam*n/ln n= 2.792  M=1.31e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=208  pair*n/ln n= 1.522  ecc*n/ln n= 2.096  diam*n/ln n= 3.252  M=1.42e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=209  pair*n/ln n= 1.095  ecc*n/ln n= 2.562  diam*n/ln n= 3.333  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=210  pair*n/ln n= 1.441  ecc*n/ln n= 3.170  diam*n/ln n= 3.192  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=211  pair*n/ln n= 0.618  ecc*n/ln n= 1.965  diam*n/ln n= 2.709  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=212  pair*n/ln n= 1.200  ecc*n/ln n= 2.147  diam*n/ln n= 2.693  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=213  pair*n/ln n= 1.300  ecc*n/ln n= 2.483  diam*n/ln n= 3.420  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=214  pair*n/ln n= 1.174  ecc*n/ln n= 2.734  diam*n/ln n= 3.082  M=1.43e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=215  pair*n/ln n= 1.156  ecc*n/ln n= 2.288  diam*n/ln n= 3.206  M=1.39e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=216  pair*n/ln n= 1.292  ecc*n/ln n= 2.215  diam*n/ln n= 3.125  M=1.34e+03 layers=1 exact=True cand=6  0.0s
+12:58:58  n=   100 rep=217  pair*n/ln n= 1.354  ecc*n/ln n= 2.176  diam*n/ln n= 3.359  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=218  pair*n/ln n= 1.153  ecc*n/ln n= 2.398  diam*n/ln n= 3.141  M=1.38e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=219  pair*n/ln n= 0.824  ecc*n/ln n= 2.072  diam*n/ln n= 2.679  M=1.43e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=220  pair*n/ln n= 0.954  ecc*n/ln n= 1.809  diam*n/ln n= 2.772  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=221  pair*n/ln n= 1.427  ecc*n/ln n= 2.432  diam*n/ln n= 3.037  M=1.38e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=222  pair*n/ln n= 1.468  ecc*n/ln n= 2.338  diam*n/ln n= 2.838  M=1.42e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=223  pair*n/ln n= 1.226  ecc*n/ln n= 1.969  diam*n/ln n= 2.620  M=1.42e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=224  pair*n/ln n= 2.043  ecc*n/ln n= 3.238  diam*n/ln n= 3.238  M=1.34e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=225  pair*n/ln n= 1.471  ecc*n/ln n= 1.853  diam*n/ln n= 2.680  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=226  pair*n/ln n= 1.143  ecc*n/ln n= 1.866  diam*n/ln n= 3.395  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=227  pair*n/ln n= 1.211  ecc*n/ln n= 2.215  diam*n/ln n= 2.620  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=228  pair*n/ln n= 0.899  ecc*n/ln n= 1.770  diam*n/ln n= 2.935  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=229  pair*n/ln n= 1.812  ecc*n/ln n= 2.573  diam*n/ln n= 2.651  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=230  pair*n/ln n= 0.841  ecc*n/ln n= 1.906  diam*n/ln n= 2.912  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=231  pair*n/ln n= 1.737  ecc*n/ln n= 2.170  diam*n/ln n= 2.537  M=1.44e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=232  pair*n/ln n= 1.052  ecc*n/ln n= 2.117  diam*n/ln n= 3.591  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=233  pair*n/ln n= 0.972  ecc*n/ln n= 2.621  diam*n/ln n= 3.195  M=1.34e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=234  pair*n/ln n= 1.182  ecc*n/ln n= 1.928  diam*n/ln n= 2.709  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=235  pair*n/ln n= 0.859  ecc*n/ln n= 2.142  diam*n/ln n= 3.052  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=236  pair*n/ln n= 0.666  ecc*n/ln n= 2.146  diam*n/ln n= 3.549  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=237  pair*n/ln n= 0.970  ecc*n/ln n= 2.503  diam*n/ln n= 3.605  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=238  pair*n/ln n= 0.671  ecc*n/ln n= 2.128  diam*n/ln n= 3.099  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=239  pair*n/ln n= 0.504  ecc*n/ln n= 2.100  diam*n/ln n= 3.615  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=240  pair*n/ln n= 0.944  ecc*n/ln n= 1.978  diam*n/ln n= 2.848  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=241  pair*n/ln n= 1.353  ecc*n/ln n= 1.719  diam*n/ln n= 2.956  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=242  pair*n/ln n= 0.806  ecc*n/ln n= 2.132  diam*n/ln n= 2.840  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=243  pair*n/ln n= 0.849  ecc*n/ln n= 2.443  diam*n/ln n= 3.386  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=244  pair*n/ln n= 1.637  ecc*n/ln n= 2.211  diam*n/ln n= 3.120  M=1.3e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=245  pair*n/ln n= 0.437  ecc*n/ln n= 1.583  diam*n/ln n= 2.904  M=1.29e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=246  pair*n/ln n= 1.059  ecc*n/ln n= 1.935  diam*n/ln n= 3.169  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=247  pair*n/ln n= 1.226  ecc*n/ln n= 1.948  diam*n/ln n= 2.822  M=1.4e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep=248  pair*n/ln n= 0.951  ecc*n/ln n= 1.958  diam*n/ln n= 2.742  M=1.43e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=249  pair*n/ln n= 1.386  ecc*n/ln n= 2.297  diam*n/ln n= 3.046  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=250  pair*n/ln n= 1.803  ecc*n/ln n= 2.484  diam*n/ln n= 2.925  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=251  pair*n/ln n= 1.588  ecc*n/ln n= 2.217  diam*n/ln n= 2.814  M=1.39e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=252  pair*n/ln n= 1.297  ecc*n/ln n= 2.714  diam*n/ln n= 3.198  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=253  pair*n/ln n= 0.952  ecc*n/ln n= 1.512  diam*n/ln n= 2.358  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=254  pair*n/ln n= 0.715  ecc*n/ln n= 1.917  diam*n/ln n= 3.598  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=255  pair*n/ln n= 0.818  ecc*n/ln n= 1.841  diam*n/ln n= 2.754  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=256  pair*n/ln n= 0.711  ecc*n/ln n= 1.839  diam*n/ln n= 2.341  M=1.34e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=257  pair*n/ln n= 0.769  ecc*n/ln n= 1.619  diam*n/ln n= 2.383  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=258  pair*n/ln n= 0.584  ecc*n/ln n= 2.044  diam*n/ln n= 3.027  M=1.42e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=259  pair*n/ln n= 1.117  ecc*n/ln n= 2.251  diam*n/ln n= 3.184  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=260  pair*n/ln n= 1.935  ecc*n/ln n= 3.224  diam*n/ln n= 3.287  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=261  pair*n/ln n= 0.848  ecc*n/ln n= 2.565  diam*n/ln n= 3.204  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=262  pair*n/ln n= 2.187  ecc*n/ln n= 2.932  diam*n/ln n= 2.932  M=1.45e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=263  pair*n/ln n= 1.616  ecc*n/ln n= 2.520  diam*n/ln n= 3.273  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=264  pair*n/ln n= 0.522  ecc*n/ln n= 1.724  diam*n/ln n= 2.589  M=1.31e+03 layers=1 exact=True cand=7  0.0s
+12:58:58  n=   100 rep=265  pair*n/ln n= 0.298  ecc*n/ln n= 2.658  diam*n/ln n= 2.953  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=266  pair*n/ln n= 1.342  ecc*n/ln n= 2.266  diam*n/ln n= 3.107  M=1.4e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=267  pair*n/ln n= 0.859  ecc*n/ln n= 2.069  diam*n/ln n= 2.767  M=1.31e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=268  pair*n/ln n= 1.565  ecc*n/ln n= 2.654  diam*n/ln n= 2.707  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=269  pair*n/ln n= 1.367  ecc*n/ln n= 1.826  diam*n/ln n= 2.488  M=1.43e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=270  pair*n/ln n= 0.928  ecc*n/ln n= 1.919  diam*n/ln n= 2.992  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=271  pair*n/ln n= 1.537  ecc*n/ln n= 2.937  diam*n/ln n= 3.603  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=272  pair*n/ln n= 1.376  ecc*n/ln n= 2.372  diam*n/ln n= 2.774  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=273  pair*n/ln n= 0.982  ecc*n/ln n= 2.195  diam*n/ln n= 3.325  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=274  pair*n/ln n= 1.546  ecc*n/ln n= 2.494  diam*n/ln n= 2.494  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=275  pair*n/ln n= 1.376  ecc*n/ln n= 2.484  diam*n/ln n= 3.354  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=276  pair*n/ln n= 0.477  ecc*n/ln n= 2.332  diam*n/ln n= 3.689  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=277  pair*n/ln n= 0.772  ecc*n/ln n= 1.773  diam*n/ln n= 2.679  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=278  pair*n/ln n= 1.596  ecc*n/ln n= 1.814  diam*n/ln n= 2.514  M=1.3e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=279  pair*n/ln n= 1.360  ecc*n/ln n= 2.235  diam*n/ln n= 2.747  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=280  pair*n/ln n= 0.655  ecc*n/ln n= 1.625  diam*n/ln n= 2.792  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=281  pair*n/ln n= 0.605  ecc*n/ln n= 1.575  diam*n/ln n= 2.320  M=1.37e+03 layers=1 exact=True cand=19  0.0s
+12:58:58  n=   100 rep=282  pair*n/ln n= 1.335  ecc*n/ln n= 1.841  diam*n/ln n= 2.849  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=283  pair*n/ln n= 1.131  ecc*n/ln n= 2.546  diam*n/ln n= 3.999  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=284  pair*n/ln n= 1.226  ecc*n/ln n= 2.312  diam*n/ln n= 3.131  M=1.34e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=285  pair*n/ln n= 0.785  ecc*n/ln n= 1.606  diam*n/ln n= 2.400  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=286  pair*n/ln n= 1.779  ecc*n/ln n= 2.025  diam*n/ln n= 3.099  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=287  pair*n/ln n= 0.864  ecc*n/ln n= 1.861  diam*n/ln n= 2.940  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=288  pair*n/ln n= 1.570  ecc*n/ln n= 2.571  diam*n/ln n= 3.420  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=289  pair*n/ln n= 1.169  ecc*n/ln n= 2.379  diam*n/ln n= 2.839  M=1.39e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep=290  pair*n/ln n= 0.356  ecc*n/ln n= 2.121  diam*n/ln n= 3.722  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=291  pair*n/ln n= 0.110  ecc*n/ln n= 2.209  diam*n/ln n= 3.003  M=1.36e+03 layers=1 exact=True cand=8  0.0s
+12:58:58  n=   100 rep=292  pair*n/ln n= 1.409  ecc*n/ln n= 2.164  diam*n/ln n= 3.004  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=293  pair*n/ln n= 0.679  ecc*n/ln n= 2.104  diam*n/ln n= 2.708  M=1.35e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=294  pair*n/ln n= 1.612  ecc*n/ln n= 2.245  diam*n/ln n= 3.179  M=1.3e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=295  pair*n/ln n= 0.467  ecc*n/ln n= 2.116  diam*n/ln n= 3.089  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=296  pair*n/ln n= 0.938  ecc*n/ln n= 1.502  diam*n/ln n= 2.428  M=1.39e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=297  pair*n/ln n= 0.905  ecc*n/ln n= 2.495  diam*n/ln n= 3.394  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=298  pair*n/ln n= 0.860  ecc*n/ln n= 2.056  diam*n/ln n= 2.803  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=299  pair*n/ln n= 1.082  ecc*n/ln n= 2.761  diam*n/ln n= 3.699  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=300  pair*n/ln n= 0.761  ecc*n/ln n= 1.426  diam*n/ln n= 2.067  M=1.35e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=301  pair*n/ln n= 0.946  ecc*n/ln n= 2.443  diam*n/ln n= 3.448  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=302  pair*n/ln n= 0.526  ecc*n/ln n= 2.083  diam*n/ln n= 2.734  M=1.37e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=303  pair*n/ln n= 1.004  ecc*n/ln n= 1.886  diam*n/ln n= 2.751  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=304  pair*n/ln n= 1.852  ecc*n/ln n= 2.879  diam*n/ln n= 3.291  M=1.37e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=305  pair*n/ln n= 0.878  ecc*n/ln n= 2.333  diam*n/ln n= 3.335  M=1.35e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=306  pair*n/ln n= 1.371  ecc*n/ln n= 2.462  diam*n/ln n= 2.743  M=1.38e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=307  pair*n/ln n= 0.903  ecc*n/ln n= 2.277  diam*n/ln n= 3.224  M=1.42e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=308  pair*n/ln n= 1.763  ecc*n/ln n= 2.134  diam*n/ln n= 3.448  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=309  pair*n/ln n= 0.978  ecc*n/ln n= 2.551  diam*n/ln n= 3.838  M=1.29e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=310  pair*n/ln n= 0.743  ecc*n/ln n= 1.980  diam*n/ln n= 3.121  M=1.42e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=311  pair*n/ln n= 0.329  ecc*n/ln n= 1.973  diam*n/ln n= 2.888  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=312  pair*n/ln n= 1.259  ecc*n/ln n= 1.919  diam*n/ln n= 2.872  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=313  pair*n/ln n= 0.721  ecc*n/ln n= 2.161  diam*n/ln n= 3.231  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=314  pair*n/ln n= 1.101  ecc*n/ln n= 1.686  diam*n/ln n= 2.331  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=315  pair*n/ln n= 1.348  ecc*n/ln n= 2.030  diam*n/ln n= 3.158  M=1.32e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=316  pair*n/ln n= 1.633  ecc*n/ln n= 2.040  diam*n/ln n= 3.213  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=317  pair*n/ln n= 1.252  ecc*n/ln n= 1.988  diam*n/ln n= 3.250  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=318  pair*n/ln n= 1.098  ecc*n/ln n= 2.014  diam*n/ln n= 3.578  M=1.3e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=319  pair*n/ln n= 1.011  ecc*n/ln n= 1.689  diam*n/ln n= 2.567  M=1.38e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep=320  pair*n/ln n= 0.589  ecc*n/ln n= 1.747  diam*n/ln n= 2.647  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=321  pair*n/ln n= 0.331  ecc*n/ln n= 2.777  diam*n/ln n= 3.841  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=322  pair*n/ln n= 1.539  ecc*n/ln n= 2.120  diam*n/ln n= 2.686  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=323  pair*n/ln n= 1.509  ecc*n/ln n= 2.382  diam*n/ln n= 2.753  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=324  pair*n/ln n= 1.494  ecc*n/ln n= 2.641  diam*n/ln n= 3.503  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=325  pair*n/ln n= 0.824  ecc*n/ln n= 1.818  diam*n/ln n= 2.380  M=1.35e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=326  pair*n/ln n= 0.999  ecc*n/ln n= 3.267  diam*n/ln n= 3.283  M=1.31e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=327  pair*n/ln n= 0.351  ecc*n/ln n= 2.691  diam*n/ln n= 3.517  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=328  pair*n/ln n= 1.660  ecc*n/ln n= 2.175  diam*n/ln n= 2.443  M=1.37e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep=329  pair*n/ln n= 1.214  ecc*n/ln n= 1.982  diam*n/ln n= 2.947  M=1.38e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep=330  pair*n/ln n= 0.767  ecc*n/ln n= 3.117  diam*n/ln n= 4.035  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=331  pair*n/ln n= 0.785  ecc*n/ln n= 2.049  diam*n/ln n= 2.808  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=332  pair*n/ln n= 0.687  ecc*n/ln n= 2.009  diam*n/ln n= 3.255  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=333  pair*n/ln n= 0.736  ecc*n/ln n= 2.282  diam*n/ln n= 3.138  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=334  pair*n/ln n= 1.379  ecc*n/ln n= 3.058  diam*n/ln n= 4.082  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=335  pair*n/ln n= 0.829  ecc*n/ln n= 2.580  diam*n/ln n= 3.228  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=336  pair*n/ln n= 1.326  ecc*n/ln n= 2.823  diam*n/ln n= 2.904  M=1.38e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=337  pair*n/ln n= 0.996  ecc*n/ln n= 2.098  diam*n/ln n= 3.062  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=338  pair*n/ln n= 0.675  ecc*n/ln n= 2.235  diam*n/ln n= 3.054  M=1.37e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=339  pair*n/ln n= 1.058  ecc*n/ln n= 2.110  diam*n/ln n= 2.576  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=340  pair*n/ln n= 0.525  ecc*n/ln n= 1.900  diam*n/ln n= 2.508  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=341  pair*n/ln n= 1.112  ecc*n/ln n= 2.209  diam*n/ln n= 2.946  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=342  pair*n/ln n= 1.558  ecc*n/ln n= 2.426  diam*n/ln n= 2.627  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=343  pair*n/ln n= 1.169  ecc*n/ln n= 1.905  diam*n/ln n= 3.160  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=344  pair*n/ln n= 2.276  ecc*n/ln n= 2.443  diam*n/ln n= 2.621  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=345  pair*n/ln n= 0.628  ecc*n/ln n= 2.359  diam*n/ln n= 3.009  M=1.38e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=346  pair*n/ln n= 0.523  ecc*n/ln n= 2.652  diam*n/ln n= 2.844  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=347  pair*n/ln n= 1.306  ecc*n/ln n= 2.629  diam*n/ln n= 3.515  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=348  pair*n/ln n= 1.069  ecc*n/ln n= 1.994  diam*n/ln n= 2.843  M=1.34e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=349  pair*n/ln n= 0.584  ecc*n/ln n= 1.874  diam*n/ln n= 2.973  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=350  pair*n/ln n= 1.421  ecc*n/ln n= 2.129  diam*n/ln n= 3.017  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=351  pair*n/ln n= 2.151  ecc*n/ln n= 2.434  diam*n/ln n= 3.098  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=352  pair*n/ln n= 1.910  ecc*n/ln n= 2.460  diam*n/ln n= 3.137  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=353  pair*n/ln n= 1.300  ecc*n/ln n= 2.814  diam*n/ln n= 3.572  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=354  pair*n/ln n= 0.902  ecc*n/ln n= 1.687  diam*n/ln n= 2.319  M=1.42e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=355  pair*n/ln n= 1.448  ecc*n/ln n= 2.231  diam*n/ln n= 2.977  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=356  pair*n/ln n= 1.466  ecc*n/ln n= 2.205  diam*n/ln n= 2.556  M=1.45e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=357  pair*n/ln n= 0.755  ecc*n/ln n= 1.991  diam*n/ln n= 3.537  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=358  pair*n/ln n= 1.293  ecc*n/ln n= 2.060  diam*n/ln n= 2.511  M=1.34e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=359  pair*n/ln n= 1.147  ecc*n/ln n= 1.912  diam*n/ln n= 2.817  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=360  pair*n/ln n= 1.057  ecc*n/ln n= 2.154  diam*n/ln n= 2.446  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=361  pair*n/ln n= 0.252  ecc*n/ln n= 1.674  diam*n/ln n= 2.815  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=362  pair*n/ln n= 0.925  ecc*n/ln n= 2.541  diam*n/ln n= 3.204  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=363  pair*n/ln n= 2.024  ecc*n/ln n= 2.173  diam*n/ln n= 3.015  M=1.35e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=364  pair*n/ln n= 0.910  ecc*n/ln n= 1.884  diam*n/ln n= 2.410  M=1.33e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=365  pair*n/ln n= 0.593  ecc*n/ln n= 1.793  diam*n/ln n= 2.938  M=1.37e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep=366  pair*n/ln n= 1.150  ecc*n/ln n= 2.297  diam*n/ln n= 3.050  M=1.43e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=367  pair*n/ln n= 0.524  ecc*n/ln n= 2.012  diam*n/ln n= 2.627  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=368  pair*n/ln n= 0.909  ecc*n/ln n= 1.692  diam*n/ln n= 2.603  M=1.36e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=369  pair*n/ln n= 2.320  ecc*n/ln n= 3.126  diam*n/ln n= 3.126  M=1.29e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=370  pair*n/ln n= 1.937  ecc*n/ln n= 2.111  diam*n/ln n= 3.611  M=1.36e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=371  pair*n/ln n= 0.309  ecc*n/ln n= 2.082  diam*n/ln n= 3.365  M=1.38e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=372  pair*n/ln n= 1.347  ecc*n/ln n= 2.274  diam*n/ln n= 2.858  M=1.39e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=373  pair*n/ln n= 1.261  ecc*n/ln n= 2.395  diam*n/ln n= 3.596  M=1.35e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=374  pair*n/ln n= 0.860  ecc*n/ln n= 2.723  diam*n/ln n= 3.843  M=1.32e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=375  pair*n/ln n= 0.655  ecc*n/ln n= 2.335  diam*n/ln n= 3.771  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=376  pair*n/ln n= 1.147  ecc*n/ln n= 2.057  diam*n/ln n= 3.331  M=1.32e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=377  pair*n/ln n= 1.038  ecc*n/ln n= 2.314  diam*n/ln n= 3.178  M=1.43e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=378  pair*n/ln n= 0.448  ecc*n/ln n= 1.430  diam*n/ln n= 2.417  M=1.35e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=379  pair*n/ln n= 0.740  ecc*n/ln n= 2.174  diam*n/ln n= 3.036  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=380  pair*n/ln n= 0.796  ecc*n/ln n= 2.020  diam*n/ln n= 3.209  M=1.43e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=381  pair*n/ln n= 0.879  ecc*n/ln n= 2.601  diam*n/ln n= 3.023  M=1.33e+03 layers=1 exact=True cand=2  0.0s
+12:58:58  n=   100 rep=382  pair*n/ln n= 0.828  ecc*n/ln n= 1.904  diam*n/ln n= 2.754  M=1.42e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=383  pair*n/ln n= 1.264  ecc*n/ln n= 2.504  diam*n/ln n= 3.485  M=1.39e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=384  pair*n/ln n= 0.791  ecc*n/ln n= 2.146  diam*n/ln n= 3.249  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=385  pair*n/ln n= 1.991  ecc*n/ln n= 2.410  diam*n/ln n= 3.333  M=1.37e+03 layers=1 exact=True cand=11  0.0s
+12:58:58  n=   100 rep=386  pair*n/ln n= 0.489  ecc*n/ln n= 1.638  diam*n/ln n= 2.908  M=1.37e+03 layers=1 exact=True cand=3  0.0s
+12:58:58  n=   100 rep=387  pair*n/ln n= 0.798  ecc*n/ln n= 1.794  diam*n/ln n= 2.831  M=1.38e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=388  pair*n/ln n= 0.748  ecc*n/ln n= 2.188  diam*n/ln n= 3.247  M=1.4e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=389  pair*n/ln n= 1.249  ecc*n/ln n= 1.827  diam*n/ln n= 2.260  M=1.37e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep=390  pair*n/ln n= 1.637  ecc*n/ln n= 2.769  diam*n/ln n= 3.237  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=391  pair*n/ln n= 0.962  ecc*n/ln n= 1.826  diam*n/ln n= 2.571  M=1.37e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=392  pair*n/ln n= 1.232  ecc*n/ln n= 1.897  diam*n/ln n= 3.549  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=393  pair*n/ln n= 1.591  ecc*n/ln n= 2.758  diam*n/ln n= 3.160  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=394  pair*n/ln n= 1.919  ecc*n/ln n= 2.364  diam*n/ln n= 2.435  M=1.39e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=395  pair*n/ln n= 0.797  ecc*n/ln n= 1.664  diam*n/ln n= 2.682  M=1.41e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=396  pair*n/ln n= 0.770  ecc*n/ln n= 1.710  diam*n/ln n= 2.887  M=1.4e+03 layers=1 exact=True cand=1  0.0s
+12:58:58  n=   100 rep=397  pair*n/ln n= 1.874  ecc*n/ln n= 1.954  diam*n/ln n= 2.861  M=1.38e+03 layers=1 exact=True cand=4  0.0s
+12:58:58  n=   100 rep=398  pair*n/ln n= 1.095  ecc*n/ln n= 2.435  diam*n/ln n= 2.834  M=1.34e+03 layers=1 exact=True cand=0  0.0s
+12:58:58  n=   100 rep=399  pair*n/ln n= 1.421  ecc*n/ln n= 2.243  diam*n/ln n= 3.803  M=1.36e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  [report] updated results_dim1.md and plots/dim1_dashboard.png
+12:59:00  --- dim=1 n=300 reps=300 diam=True est. M=5.59e+03 simplices, 0.00 GB, 12 threads
+12:59:00  n=   300 rep=  0  pair*n/ln n= 1.233  ecc*n/ln n= 2.421  diam*n/ln n= 2.986  M=5.53e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=  1  pair*n/ln n= 1.162  ecc*n/ln n= 1.763  diam*n/ln n= 2.965  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=  2  pair*n/ln n= 1.262  ecc*n/ln n= 2.662  diam*n/ln n= 3.336  M=5.57e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=  3  pair*n/ln n= 1.239  ecc*n/ln n= 2.408  diam*n/ln n= 3.321  M=5.75e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=  4  pair*n/ln n= 1.087  ecc*n/ln n= 1.912  diam*n/ln n= 2.882  M=5.7e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=  5  pair*n/ln n= 1.038  ecc*n/ln n= 2.039  diam*n/ln n= 2.918  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=  6  pair*n/ln n= 1.070  ecc*n/ln n= 2.352  diam*n/ln n= 3.113  M=5.56e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=  7  pair*n/ln n= 0.971  ecc*n/ln n= 2.398  diam*n/ln n= 3.375  M=5.49e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=  8  pair*n/ln n= 1.403  ecc*n/ln n= 2.536  diam*n/ln n= 2.985  M=5.62e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=  9  pair*n/ln n= 0.679  ecc*n/ln n= 1.978  diam*n/ln n= 3.266  M=5.58e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 10  pair*n/ln n= 0.989  ecc*n/ln n= 2.523  diam*n/ln n= 3.298  M=5.52e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 11  pair*n/ln n= 1.511  ecc*n/ln n= 2.682  diam*n/ln n= 2.757  M=5.6e+03 layers=1 exact=True cand=5  0.0s
+12:59:00  n=   300 rep= 12  pair*n/ln n= 0.962  ecc*n/ln n= 2.080  diam*n/ln n= 2.942  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 13  pair*n/ln n= 1.721  ecc*n/ln n= 2.133  diam*n/ln n= 2.767  M=5.4e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep= 14  pair*n/ln n= 1.344  ecc*n/ln n= 2.520  diam*n/ln n= 2.872  M=5.66e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 15  pair*n/ln n= 1.380  ecc*n/ln n= 2.138  diam*n/ln n= 3.171  M=5.57e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep= 16  pair*n/ln n= 1.650  ecc*n/ln n= 3.347  diam*n/ln n= 4.165  M=5.56e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 17  pair*n/ln n= 1.067  ecc*n/ln n= 1.935  diam*n/ln n= 2.870  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 18  pair*n/ln n= 0.666  ecc*n/ln n= 1.652  diam*n/ln n= 2.912  M=5.6e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 19  pair*n/ln n= 1.244  ecc*n/ln n= 1.859  diam*n/ln n= 2.697  M=5.61e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 20  pair*n/ln n= 2.528  ecc*n/ln n= 3.569  diam*n/ln n= 3.569  M=5.61e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 21  pair*n/ln n= 1.016  ecc*n/ln n= 2.299  diam*n/ln n= 2.984  M=5.5e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 22  pair*n/ln n= 0.960  ecc*n/ln n= 2.328  diam*n/ln n= 2.909  M=5.59e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep= 23  pair*n/ln n= 0.935  ecc*n/ln n= 2.017  diam*n/ln n= 3.058  M=5.56e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 24  pair*n/ln n= 1.800  ecc*n/ln n= 2.387  diam*n/ln n= 3.675  M=5.59e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 25  pair*n/ln n= 0.838  ecc*n/ln n= 1.884  diam*n/ln n= 2.792  M=5.57e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 26  pair*n/ln n= 1.325  ecc*n/ln n= 2.039  diam*n/ln n= 3.076  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 27  pair*n/ln n= 0.850  ecc*n/ln n= 2.294  diam*n/ln n= 3.312  M=5.68e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 28  pair*n/ln n= 0.949  ecc*n/ln n= 1.709  diam*n/ln n= 2.932  M=5.64e+03 layers=1 exact=True cand=10  0.0s
+12:59:00  n=   300 rep= 29  pair*n/ln n= 0.500  ecc*n/ln n= 2.273  diam*n/ln n= 3.220  M=5.6e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 30  pair*n/ln n= 0.539  ecc*n/ln n= 2.539  diam*n/ln n= 3.140  M=5.65e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 31  pair*n/ln n= 1.185  ecc*n/ln n= 2.447  diam*n/ln n= 3.078  M=5.61e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep= 32  pair*n/ln n= 1.839  ecc*n/ln n= 2.818  diam*n/ln n= 3.123  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 33  pair*n/ln n= 1.433  ecc*n/ln n= 2.140  diam*n/ln n= 3.252  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 34  pair*n/ln n= 1.242  ecc*n/ln n= 1.684  diam*n/ln n= 2.701  M=5.56e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 35  pair*n/ln n= 0.377  ecc*n/ln n= 1.734  diam*n/ln n= 2.555  M=5.53e+03 layers=1 exact=True cand=8  0.0s
+12:59:00  n=   300 rep= 36  pair*n/ln n= 1.070  ecc*n/ln n= 2.071  diam*n/ln n= 3.305  M=5.53e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 37  pair*n/ln n= 0.912  ecc*n/ln n= 1.615  diam*n/ln n= 2.762  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 38  pair*n/ln n= 1.396  ecc*n/ln n= 1.900  diam*n/ln n= 2.857  M=5.68e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 39  pair*n/ln n= 1.129  ecc*n/ln n= 2.536  diam*n/ln n= 3.562  M=5.58e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 40  pair*n/ln n= 0.842  ecc*n/ln n= 1.668  diam*n/ln n= 2.820  M=5.69e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep= 41  pair*n/ln n= 1.449  ecc*n/ln n= 2.003  diam*n/ln n= 2.531  M=5.66e+03 layers=1 exact=True cand=12  0.0s
+12:59:00  n=   300 rep= 42  pair*n/ln n= 1.046  ecc*n/ln n= 2.029  diam*n/ln n= 2.805  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 43  pair*n/ln n= 1.505  ecc*n/ln n= 2.645  diam*n/ln n= 3.620  M=5.63e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 44  pair*n/ln n= 0.999  ecc*n/ln n= 2.014  diam*n/ln n= 3.216  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 45  pair*n/ln n= 0.859  ecc*n/ln n= 2.467  diam*n/ln n= 3.816  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 46  pair*n/ln n= 1.182  ecc*n/ln n= 2.172  diam*n/ln n= 2.887  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 47  pair*n/ln n= 0.987  ecc*n/ln n= 2.325  diam*n/ln n= 3.222  M=5.53e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 48  pair*n/ln n= 0.906  ecc*n/ln n= 2.277  diam*n/ln n= 3.101  M=5.57e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 49  pair*n/ln n= 1.000  ecc*n/ln n= 1.581  diam*n/ln n= 2.519  M=5.54e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 50  pair*n/ln n= 1.036  ecc*n/ln n= 2.772  diam*n/ln n= 3.211  M=5.54e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 51  pair*n/ln n= 1.181  ecc*n/ln n= 2.409  diam*n/ln n= 3.024  M=5.64e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 52  pair*n/ln n= 0.741  ecc*n/ln n= 2.137  diam*n/ln n= 2.817  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 53  pair*n/ln n= 1.160  ecc*n/ln n= 2.582  diam*n/ln n= 3.481  M=5.66e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 54  pair*n/ln n= 1.439  ecc*n/ln n= 1.832  diam*n/ln n= 2.864  M=5.52e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 55  pair*n/ln n= 0.954  ecc*n/ln n= 1.653  diam*n/ln n= 2.898  M=5.72e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep= 56  pair*n/ln n= 1.776  ecc*n/ln n= 2.565  diam*n/ln n= 2.905  M=5.55e+03 layers=1 exact=True cand=21  0.0s
+12:59:00  n=   300 rep= 57  pair*n/ln n= 1.823  ecc*n/ln n= 2.229  diam*n/ln n= 2.736  M=5.64e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 58  pair*n/ln n= 1.275  ecc*n/ln n= 2.285  diam*n/ln n= 3.170  M=5.52e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 59  pair*n/ln n= 1.648  ecc*n/ln n= 2.550  diam*n/ln n= 2.891  M=5.65e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 60  pair*n/ln n= 0.778  ecc*n/ln n= 2.274  diam*n/ln n= 2.917  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 61  pair*n/ln n= 1.245  ecc*n/ln n= 2.406  diam*n/ln n= 2.964  M=5.66e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 62  pair*n/ln n= 1.342  ecc*n/ln n= 2.022  diam*n/ln n= 2.837  M=5.58e+03 layers=1 exact=True cand=9  0.0s
+12:59:00  n=   300 rep= 63  pair*n/ln n= 0.936  ecc*n/ln n= 2.305  diam*n/ln n= 3.251  M=5.53e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 64  pair*n/ln n= 0.364  ecc*n/ln n= 2.061  diam*n/ln n= 3.283  M=5.67e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 65  pair*n/ln n= 0.938  ecc*n/ln n= 2.126  diam*n/ln n= 3.256  M=5.49e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 66  pair*n/ln n= 1.739  ecc*n/ln n= 2.186  diam*n/ln n= 2.688  M=5.73e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 67  pair*n/ln n= 1.790  ecc*n/ln n= 2.611  diam*n/ln n= 2.898  M=5.58e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep= 68  pair*n/ln n= 0.976  ecc*n/ln n= 2.629  diam*n/ln n= 4.179  M=5.56e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 69  pair*n/ln n= 0.425  ecc*n/ln n= 1.840  diam*n/ln n= 3.154  M=5.74e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 70  pair*n/ln n= 1.010  ecc*n/ln n= 1.785  diam*n/ln n= 2.822  M=5.67e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 71  pair*n/ln n= 1.122  ecc*n/ln n= 1.939  diam*n/ln n= 2.651  M=5.65e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 72  pair*n/ln n= 1.117  ecc*n/ln n= 2.245  diam*n/ln n= 3.008  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 73  pair*n/ln n= 1.331  ecc*n/ln n= 1.951  diam*n/ln n= 3.061  M=5.56e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 74  pair*n/ln n= 0.853  ecc*n/ln n= 1.982  diam*n/ln n= 3.103  M=5.57e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 75  pair*n/ln n= 1.445  ecc*n/ln n= 2.021  diam*n/ln n= 2.570  M=5.6e+03 layers=1 exact=True cand=8  0.0s
+12:59:00  n=   300 rep= 76  pair*n/ln n= 1.305  ecc*n/ln n= 1.952  diam*n/ln n= 3.508  M=5.6e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 77  pair*n/ln n= 1.338  ecc*n/ln n= 2.370  diam*n/ln n= 2.940  M=5.66e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 78  pair*n/ln n= 1.551  ecc*n/ln n= 3.077  diam*n/ln n= 3.201  M=5.46e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 79  pair*n/ln n= 1.097  ecc*n/ln n= 2.203  diam*n/ln n= 2.849  M=5.59e+03 layers=1 exact=True cand=19  0.0s
+12:59:00  n=   300 rep= 80  pair*n/ln n= 1.087  ecc*n/ln n= 2.416  diam*n/ln n= 3.346  M=5.58e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 81  pair*n/ln n= 0.651  ecc*n/ln n= 2.668  diam*n/ln n= 3.887  M=5.64e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 82  pair*n/ln n= 1.068  ecc*n/ln n= 2.036  diam*n/ln n= 2.909  M=5.55e+03 layers=1 exact=True cand=3  0.0s
+12:59:00  n=   300 rep= 83  pair*n/ln n= 0.821  ecc*n/ln n= 1.914  diam*n/ln n= 2.952  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 84  pair*n/ln n= 0.936  ecc*n/ln n= 2.222  diam*n/ln n= 4.000  M=5.64e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 85  pair*n/ln n= 2.062  ecc*n/ln n= 2.071  diam*n/ln n= 3.167  M=5.56e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 86  pair*n/ln n= 2.436  ecc*n/ln n= 2.907  diam*n/ln n= 2.907  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 87  pair*n/ln n= 1.267  ecc*n/ln n= 1.999  diam*n/ln n= 3.082  M=5.47e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 88  pair*n/ln n= 0.893  ecc*n/ln n= 1.895  diam*n/ln n= 2.742  M=5.56e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 89  pair*n/ln n= 1.144  ecc*n/ln n= 2.156  diam*n/ln n= 3.026  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 90  pair*n/ln n= 1.577  ecc*n/ln n= 2.637  diam*n/ln n= 3.929  M=5.67e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 91  pair*n/ln n= 1.554  ecc*n/ln n= 2.066  diam*n/ln n= 3.436  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 92  pair*n/ln n= 1.315  ecc*n/ln n= 2.322  diam*n/ln n= 2.665  M=5.67e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 93  pair*n/ln n= 1.752  ecc*n/ln n= 2.509  diam*n/ln n= 3.390  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 94  pair*n/ln n= 1.178  ecc*n/ln n= 2.386  diam*n/ln n= 3.154  M=5.56e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 95  pair*n/ln n= 0.822  ecc*n/ln n= 1.917  diam*n/ln n= 2.967  M=5.52e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 96  pair*n/ln n= 1.191  ecc*n/ln n= 3.066  diam*n/ln n= 3.489  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep= 97  pair*n/ln n= 1.371  ecc*n/ln n= 2.264  diam*n/ln n= 3.163  M=5.53e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep= 98  pair*n/ln n= 1.247  ecc*n/ln n= 1.807  diam*n/ln n= 2.767  M=5.56e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep= 99  pair*n/ln n= 0.931  ecc*n/ln n= 2.266  diam*n/ln n= 3.034  M=5.72e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=100  pair*n/ln n= 1.311  ecc*n/ln n= 3.331  diam*n/ln n= 3.688  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=101  pair*n/ln n= 0.646  ecc*n/ln n= 2.184  diam*n/ln n= 3.276  M=5.73e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=102  pair*n/ln n= 1.357  ecc*n/ln n= 2.811  diam*n/ln n= 3.334  M=5.54e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=103  pair*n/ln n= 1.479  ecc*n/ln n= 1.955  diam*n/ln n= 2.760  M=5.64e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=104  pair*n/ln n= 1.246  ecc*n/ln n= 2.251  diam*n/ln n= 3.133  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=105  pair*n/ln n= 1.451  ecc*n/ln n= 2.428  diam*n/ln n= 2.958  M=5.65e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=106  pair*n/ln n= 1.421  ecc*n/ln n= 2.017  diam*n/ln n= 2.825  M=5.59e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=107  pair*n/ln n= 1.970  ecc*n/ln n= 2.511  diam*n/ln n= 2.823  M=5.61e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=108  pair*n/ln n= 1.092  ecc*n/ln n= 2.497  diam*n/ln n= 3.379  M=5.5e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=109  pair*n/ln n= 0.737  ecc*n/ln n= 1.901  diam*n/ln n= 3.342  M=5.64e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=110  pair*n/ln n= 0.774  ecc*n/ln n= 1.808  diam*n/ln n= 3.110  M=5.61e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=111  pair*n/ln n= 1.552  ecc*n/ln n= 2.209  diam*n/ln n= 2.597  M=5.51e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=112  pair*n/ln n= 0.716  ecc*n/ln n= 1.765  diam*n/ln n= 2.844  M=5.64e+03 layers=1 exact=True cand=15  0.0s
+12:59:00  n=   300 rep=113  pair*n/ln n= 0.805  ecc*n/ln n= 2.205  diam*n/ln n= 3.221  M=5.54e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=114  pair*n/ln n= 1.531  ecc*n/ln n= 2.702  diam*n/ln n= 3.108  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=115  pair*n/ln n= 1.067  ecc*n/ln n= 1.891  diam*n/ln n= 2.707  M=5.72e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=116  pair*n/ln n= 1.037  ecc*n/ln n= 1.946  diam*n/ln n= 2.786  M=5.61e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=117  pair*n/ln n= 1.065  ecc*n/ln n= 2.266  diam*n/ln n= 2.893  M=5.71e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=118  pair*n/ln n= 0.798  ecc*n/ln n= 2.229  diam*n/ln n= 2.890  M=5.51e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=119  pair*n/ln n= 0.888  ecc*n/ln n= 2.174  diam*n/ln n= 3.473  M=5.59e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=120  pair*n/ln n= 0.360  ecc*n/ln n= 2.021  diam*n/ln n= 2.589  M=5.64e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=121  pair*n/ln n= 0.568  ecc*n/ln n= 2.153  diam*n/ln n= 3.219  M=5.6e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=122  pair*n/ln n= 1.209  ecc*n/ln n= 2.652  diam*n/ln n= 3.930  M=5.73e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=123  pair*n/ln n= 1.058  ecc*n/ln n= 2.103  diam*n/ln n= 2.866  M=5.53e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=124  pair*n/ln n= 1.012  ecc*n/ln n= 2.269  diam*n/ln n= 2.980  M=5.41e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=125  pair*n/ln n= 1.063  ecc*n/ln n= 2.331  diam*n/ln n= 3.474  M=5.53e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=126  pair*n/ln n= 0.999  ecc*n/ln n= 2.239  diam*n/ln n= 2.765  M=5.57e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=127  pair*n/ln n= 0.713  ecc*n/ln n= 1.902  diam*n/ln n= 2.824  M=5.58e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=128  pair*n/ln n= 1.305  ecc*n/ln n= 2.235  diam*n/ln n= 2.876  M=5.65e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=129  pair*n/ln n= 1.289  ecc*n/ln n= 1.989  diam*n/ln n= 2.948  M=5.77e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=130  pair*n/ln n= 0.956  ecc*n/ln n= 2.321  diam*n/ln n= 3.301  M=5.63e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=131  pair*n/ln n= 1.083  ecc*n/ln n= 2.560  diam*n/ln n= 2.999  M=5.72e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=132  pair*n/ln n= 1.361  ecc*n/ln n= 2.586  diam*n/ln n= 3.417  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=133  pair*n/ln n= 1.141  ecc*n/ln n= 1.921  diam*n/ln n= 2.930  M=5.63e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=134  pair*n/ln n= 0.914  ecc*n/ln n= 1.845  diam*n/ln n= 2.805  M=5.51e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=135  pair*n/ln n= 0.363  ecc*n/ln n= 2.186  diam*n/ln n= 3.362  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=136  pair*n/ln n= 1.092  ecc*n/ln n= 1.858  diam*n/ln n= 2.827  M=5.66e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=137  pair*n/ln n= 1.178  ecc*n/ln n= 2.096  diam*n/ln n= 3.362  M=5.66e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=138  pair*n/ln n= 1.644  ecc*n/ln n= 2.243  diam*n/ln n= 2.677  M=5.55e+03 layers=1 exact=True cand=7  0.0s
+12:59:00  n=   300 rep=139  pair*n/ln n= 1.397  ecc*n/ln n= 2.902  diam*n/ln n= 2.902  M=5.68e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=140  pair*n/ln n= 1.625  ecc*n/ln n= 2.373  diam*n/ln n= 3.231  M=5.76e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=141  pair*n/ln n= 0.634  ecc*n/ln n= 2.129  diam*n/ln n= 3.382  M=5.64e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=142  pair*n/ln n= 1.702  ecc*n/ln n= 2.212  diam*n/ln n= 2.983  M=5.68e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=143  pair*n/ln n= 1.841  ecc*n/ln n= 2.830  diam*n/ln n= 2.963  M=5.54e+03 layers=1 exact=True cand=3  0.0s
+12:59:00  n=   300 rep=144  pair*n/ln n= 1.317  ecc*n/ln n= 2.193  diam*n/ln n= 2.846  M=5.61e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=145  pair*n/ln n= 0.868  ecc*n/ln n= 2.045  diam*n/ln n= 2.677  M=5.75e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=146  pair*n/ln n= 0.805  ecc*n/ln n= 1.928  diam*n/ln n= 2.962  M=5.58e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=147  pair*n/ln n= 1.827  ecc*n/ln n= 3.320  diam*n/ln n= 3.442  M=5.57e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=148  pair*n/ln n= 1.746  ecc*n/ln n= 2.801  diam*n/ln n= 3.431  M=5.66e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=149  pair*n/ln n= 1.171  ecc*n/ln n= 1.944  diam*n/ln n= 2.875  M=5.49e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=150  pair*n/ln n= 1.442  ecc*n/ln n= 2.438  diam*n/ln n= 2.845  M=5.65e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=151  pair*n/ln n= 1.345  ecc*n/ln n= 2.088  diam*n/ln n= 2.893  M=5.52e+03 layers=1 exact=True cand=3  0.0s
+12:59:00  n=   300 rep=152  pair*n/ln n= 1.519  ecc*n/ln n= 2.579  diam*n/ln n= 3.062  M=5.63e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=153  pair*n/ln n= 0.831  ecc*n/ln n= 2.131  diam*n/ln n= 3.579  M=5.47e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=154  pair*n/ln n= 0.858  ecc*n/ln n= 1.668  diam*n/ln n= 2.658  M=5.57e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=155  pair*n/ln n= 0.913  ecc*n/ln n= 2.309  diam*n/ln n= 3.432  M=5.58e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=156  pair*n/ln n= 1.282  ecc*n/ln n= 2.117  diam*n/ln n= 3.080  M=5.62e+03 layers=1 exact=True cand=15  0.0s
+12:59:00  n=   300 rep=157  pair*n/ln n= 0.703  ecc*n/ln n= 1.916  diam*n/ln n= 2.712  M=5.77e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=158  pair*n/ln n= 1.691  ecc*n/ln n= 2.491  diam*n/ln n= 2.948  M=5.56e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=159  pair*n/ln n= 1.296  ecc*n/ln n= 2.115  diam*n/ln n= 3.063  M=5.49e+03 layers=1 exact=True cand=9  0.0s
+12:59:00  n=   300 rep=160  pair*n/ln n= 1.007  ecc*n/ln n= 2.483  diam*n/ln n= 2.955  M=5.57e+03 layers=1 exact=True cand=3  0.0s
+12:59:00  n=   300 rep=161  pair*n/ln n= 1.012  ecc*n/ln n= 1.594  diam*n/ln n= 2.698  M=5.58e+03 layers=1 exact=True cand=5  0.0s
+12:59:00  n=   300 rep=162  pair*n/ln n= 1.127  ecc*n/ln n= 2.691  diam*n/ln n= 3.950  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=163  pair*n/ln n= 1.017  ecc*n/ln n= 2.178  diam*n/ln n= 3.230  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=164  pair*n/ln n= 0.875  ecc*n/ln n= 2.445  diam*n/ln n= 2.787  M=5.61e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=165  pair*n/ln n= 1.199  ecc*n/ln n= 2.203  diam*n/ln n= 3.036  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=166  pair*n/ln n= 0.879  ecc*n/ln n= 2.227  diam*n/ln n= 3.256  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=167  pair*n/ln n= 1.607  ecc*n/ln n= 2.376  diam*n/ln n= 3.136  M=5.57e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=168  pair*n/ln n= 0.776  ecc*n/ln n= 2.599  diam*n/ln n= 4.101  M=5.66e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=169  pair*n/ln n= 0.882  ecc*n/ln n= 1.828  diam*n/ln n= 2.586  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=170  pair*n/ln n= 0.918  ecc*n/ln n= 2.287  diam*n/ln n= 3.096  M=5.59e+03 layers=1 exact=True cand=5  0.0s
+12:59:00  n=   300 rep=171  pair*n/ln n= 1.614  ecc*n/ln n= 1.795  diam*n/ln n= 2.894  M=5.55e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=172  pair*n/ln n= 1.170  ecc*n/ln n= 1.948  diam*n/ln n= 3.103  M=5.48e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=173  pair*n/ln n= 1.690  ecc*n/ln n= 2.433  diam*n/ln n= 2.886  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=174  pair*n/ln n= 0.914  ecc*n/ln n= 2.270  diam*n/ln n= 3.353  M=5.49e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=175  pair*n/ln n= 1.350  ecc*n/ln n= 3.088  diam*n/ln n= 4.232  M=5.58e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=176  pair*n/ln n= 2.076  ecc*n/ln n= 3.423  diam*n/ln n= 3.443  M=5.58e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=177  pair*n/ln n= 1.030  ecc*n/ln n= 1.977  diam*n/ln n= 2.878  M=5.59e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=178  pair*n/ln n= 2.128  ecc*n/ln n= 3.317  diam*n/ln n= 3.317  M=5.48e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=179  pair*n/ln n= 1.197  ecc*n/ln n= 2.102  diam*n/ln n= 3.174  M=5.51e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=180  pair*n/ln n= 0.782  ecc*n/ln n= 1.863  diam*n/ln n= 2.784  M=5.6e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=181  pair*n/ln n= 0.802  ecc*n/ln n= 2.045  diam*n/ln n= 2.707  M=5.63e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=182  pair*n/ln n= 1.336  ecc*n/ln n= 3.149  diam*n/ln n= 4.180  M=5.74e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=183  pair*n/ln n= 1.580  ecc*n/ln n= 2.678  diam*n/ln n= 3.541  M=5.61e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=184  pair*n/ln n= 1.399  ecc*n/ln n= 2.297  diam*n/ln n= 3.029  M=5.72e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=185  pair*n/ln n= 0.737  ecc*n/ln n= 2.109  diam*n/ln n= 3.046  M=5.53e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=186  pair*n/ln n= 1.157  ecc*n/ln n= 2.155  diam*n/ln n= 3.221  M=5.56e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=187  pair*n/ln n= 0.619  ecc*n/ln n= 2.093  diam*n/ln n= 3.293  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=188  pair*n/ln n= 1.379  ecc*n/ln n= 2.265  diam*n/ln n= 2.865  M=5.58e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=189  pair*n/ln n= 0.815  ecc*n/ln n= 2.064  diam*n/ln n= 3.324  M=5.7e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=190  pair*n/ln n= 0.812  ecc*n/ln n= 2.129  diam*n/ln n= 2.977  M=5.7e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=191  pair*n/ln n= 1.227  ecc*n/ln n= 2.186  diam*n/ln n= 2.797  M=5.51e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=192  pair*n/ln n= 1.227  ecc*n/ln n= 1.865  diam*n/ln n= 2.736  M=5.57e+03 layers=1 exact=True cand=9  0.0s
+12:59:00  n=   300 rep=193  pair*n/ln n= 0.312  ecc*n/ln n= 1.745  diam*n/ln n= 3.042  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=194  pair*n/ln n= 1.127  ecc*n/ln n= 1.872  diam*n/ln n= 2.882  M=5.58e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=195  pair*n/ln n= 1.490  ecc*n/ln n= 1.961  diam*n/ln n= 3.135  M=5.72e+03 layers=1 exact=True cand=7  0.0s
+12:59:00  n=   300 rep=196  pair*n/ln n= 0.949  ecc*n/ln n= 1.934  diam*n/ln n= 2.826  M=5.72e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=197  pair*n/ln n= 1.123  ecc*n/ln n= 2.100  diam*n/ln n= 3.142  M=5.52e+03 layers=1 exact=True cand=3  0.0s
+12:59:00  n=   300 rep=198  pair*n/ln n= 0.297  ecc*n/ln n= 2.259  diam*n/ln n= 3.501  M=5.4e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=199  pair*n/ln n= 0.493  ecc*n/ln n= 1.786  diam*n/ln n= 2.897  M=5.52e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=200  pair*n/ln n= 1.339  ecc*n/ln n= 2.063  diam*n/ln n= 2.508  M=5.6e+03 layers=1 exact=True cand=7  0.0s
+12:59:00  n=   300 rep=201  pair*n/ln n= 0.681  ecc*n/ln n= 2.057  diam*n/ln n= 2.909  M=5.61e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=202  pair*n/ln n= 1.590  ecc*n/ln n= 2.263  diam*n/ln n= 3.149  M=5.65e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=203  pair*n/ln n= 0.871  ecc*n/ln n= 1.856  diam*n/ln n= 2.974  M=5.7e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=204  pair*n/ln n= 1.665  ecc*n/ln n= 2.690  diam*n/ln n= 3.094  M=5.58e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=205  pair*n/ln n= 1.299  ecc*n/ln n= 2.163  diam*n/ln n= 3.338  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=206  pair*n/ln n= 1.132  ecc*n/ln n= 1.822  diam*n/ln n= 2.564  M=5.57e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=207  pair*n/ln n= 1.261  ecc*n/ln n= 2.466  diam*n/ln n= 3.313  M=5.59e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=208  pair*n/ln n= 1.219  ecc*n/ln n= 1.689  diam*n/ln n= 2.947  M=5.57e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=209  pair*n/ln n= 0.960  ecc*n/ln n= 1.639  diam*n/ln n= 2.410  M=5.75e+03 layers=1 exact=True cand=3  0.0s
+12:59:00  n=   300 rep=210  pair*n/ln n= 1.332  ecc*n/ln n= 3.392  diam*n/ln n= 3.673  M=5.75e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=211  pair*n/ln n= 1.150  ecc*n/ln n= 1.731  diam*n/ln n= 2.453  M=5.58e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=212  pair*n/ln n= 0.382  ecc*n/ln n= 2.273  diam*n/ln n= 3.604  M=5.54e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=213  pair*n/ln n= 2.110  ecc*n/ln n= 3.115  diam*n/ln n= 3.591  M=5.7e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=214  pair*n/ln n= 0.921  ecc*n/ln n= 1.949  diam*n/ln n= 3.106  M=5.67e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=215  pair*n/ln n= 0.789  ecc*n/ln n= 2.148  diam*n/ln n= 2.941  M=5.7e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=216  pair*n/ln n= 0.878  ecc*n/ln n= 2.060  diam*n/ln n= 3.085  M=5.65e+03 layers=1 exact=True cand=8  0.0s
+12:59:00  n=   300 rep=217  pair*n/ln n= 1.319  ecc*n/ln n= 1.927  diam*n/ln n= 2.850  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=218  pair*n/ln n= 1.133  ecc*n/ln n= 1.780  diam*n/ln n= 2.654  M=5.72e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=219  pair*n/ln n= 0.805  ecc*n/ln n= 2.122  diam*n/ln n= 3.005  M=5.59e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=220  pair*n/ln n= 0.942  ecc*n/ln n= 1.849  diam*n/ln n= 2.743  M=5.65e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=221  pair*n/ln n= 0.708  ecc*n/ln n= 2.436  diam*n/ln n= 3.719  M=5.56e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=222  pair*n/ln n= 0.601  ecc*n/ln n= 2.294  diam*n/ln n= 3.473  M=5.48e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=223  pair*n/ln n= 1.207  ecc*n/ln n= 2.087  diam*n/ln n= 2.872  M=5.56e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=224  pair*n/ln n= 0.878  ecc*n/ln n= 1.854  diam*n/ln n= 2.911  M=5.58e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=225  pair*n/ln n= 1.102  ecc*n/ln n= 2.277  diam*n/ln n= 3.258  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=226  pair*n/ln n= 0.758  ecc*n/ln n= 2.262  diam*n/ln n= 2.959  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=227  pair*n/ln n= 1.307  ecc*n/ln n= 2.219  diam*n/ln n= 2.766  M=5.61e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=228  pair*n/ln n= 1.391  ecc*n/ln n= 2.116  diam*n/ln n= 3.004  M=5.54e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=229  pair*n/ln n= 1.872  ecc*n/ln n= 2.652  diam*n/ln n= 3.531  M=5.68e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=230  pair*n/ln n= 1.216  ecc*n/ln n= 2.283  diam*n/ln n= 3.303  M=5.53e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=231  pair*n/ln n= 0.535  ecc*n/ln n= 1.650  diam*n/ln n= 2.693  M=5.42e+03 layers=1 exact=True cand=4  0.0s
+12:59:00  n=   300 rep=232  pair*n/ln n= 0.335  ecc*n/ln n= 1.714  diam*n/ln n= 2.552  M=5.59e+03 layers=1 exact=True cand=15  0.0s
+12:59:00  n=   300 rep=233  pair*n/ln n= 0.948  ecc*n/ln n= 2.317  diam*n/ln n= 3.361  M=5.52e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=234  pair*n/ln n= 0.537  ecc*n/ln n= 2.006  diam*n/ln n= 3.071  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=235  pair*n/ln n= 0.438  ecc*n/ln n= 1.954  diam*n/ln n= 2.934  M=5.64e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=236  pair*n/ln n= 1.192  ecc*n/ln n= 1.977  diam*n/ln n= 3.382  M=5.58e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=237  pair*n/ln n= 0.551  ecc*n/ln n= 1.661  diam*n/ln n= 2.550  M=5.68e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=238  pair*n/ln n= 1.531  ecc*n/ln n= 2.385  diam*n/ln n= 3.056  M=5.52e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=239  pair*n/ln n= 0.776  ecc*n/ln n= 1.856  diam*n/ln n= 2.550  M=5.66e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=240  pair*n/ln n= 0.678  ecc*n/ln n= 2.601  diam*n/ln n= 3.564  M=5.56e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=241  pair*n/ln n= 1.303  ecc*n/ln n= 1.998  diam*n/ln n= 2.642  M=5.63e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=242  pair*n/ln n= 0.760  ecc*n/ln n= 1.941  diam*n/ln n= 2.852  M=5.53e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=243  pair*n/ln n= 0.565  ecc*n/ln n= 1.671  diam*n/ln n= 2.905  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=244  pair*n/ln n= 1.542  ecc*n/ln n= 2.808  diam*n/ln n= 3.293  M=5.43e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=245  pair*n/ln n= 1.051  ecc*n/ln n= 1.922  diam*n/ln n= 2.771  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=246  pair*n/ln n= 1.002  ecc*n/ln n= 1.781  diam*n/ln n= 2.841  M=5.61e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=247  pair*n/ln n= 1.256  ecc*n/ln n= 2.191  diam*n/ln n= 3.423  M=5.5e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=248  pair*n/ln n= 1.174  ecc*n/ln n= 2.594  diam*n/ln n= 3.186  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=249  pair*n/ln n= 1.032  ecc*n/ln n= 1.882  diam*n/ln n= 2.989  M=5.64e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=250  pair*n/ln n= 0.905  ecc*n/ln n= 1.877  diam*n/ln n= 2.898  M=5.64e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=251  pair*n/ln n= 1.082  ecc*n/ln n= 2.228  diam*n/ln n= 3.068  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=252  pair*n/ln n= 0.859  ecc*n/ln n= 1.835  diam*n/ln n= 3.223  M=5.61e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=253  pair*n/ln n= 1.423  ecc*n/ln n= 2.288  diam*n/ln n= 2.801  M=5.53e+03 layers=1 exact=True cand=1  0.0s
+12:59:00  n=   300 rep=254  pair*n/ln n= 0.679  ecc*n/ln n= 1.789  diam*n/ln n= 2.706  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=255  pair*n/ln n= 1.142  ecc*n/ln n= 2.333  diam*n/ln n= 3.250  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=256  pair*n/ln n= 1.138  ecc*n/ln n= 1.973  diam*n/ln n= 2.792  M=5.68e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=257  pair*n/ln n= 0.598  ecc*n/ln n= 1.946  diam*n/ln n= 2.740  M=5.7e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=258  pair*n/ln n= 1.067  ecc*n/ln n= 2.386  diam*n/ln n= 3.479  M=5.6e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=259  pair*n/ln n= 1.154  ecc*n/ln n= 2.104  diam*n/ln n= 2.726  M=5.54e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=260  pair*n/ln n= 0.912  ecc*n/ln n= 2.043  diam*n/ln n= 2.802  M=5.62e+03 layers=1 exact=True cand=4  0.0s
+12:59:00  n=   300 rep=261  pair*n/ln n= 0.513  ecc*n/ln n= 2.209  diam*n/ln n= 3.337  M=5.54e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=262  pair*n/ln n= 1.050  ecc*n/ln n= 2.224  diam*n/ln n= 2.824  M=5.59e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=263  pair*n/ln n= 1.183  ecc*n/ln n= 2.053  diam*n/ln n= 3.356  M=5.66e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=264  pair*n/ln n= 1.059  ecc*n/ln n= 2.145  diam*n/ln n= 2.792  M=5.48e+03 layers=1 exact=True cand=3  0.0s
+12:59:00  n=   300 rep=265  pair*n/ln n= 0.873  ecc*n/ln n= 2.479  diam*n/ln n= 3.847  M=5.64e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=266  pair*n/ln n= 0.831  ecc*n/ln n= 1.947  diam*n/ln n= 2.910  M=5.58e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=267  pair*n/ln n= 0.959  ecc*n/ln n= 2.634  diam*n/ln n= 3.463  M=5.61e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=268  pair*n/ln n= 1.306  ecc*n/ln n= 2.613  diam*n/ln n= 3.289  M=5.58e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=269  pair*n/ln n= 1.269  ecc*n/ln n= 2.242  diam*n/ln n= 2.868  M=5.64e+03 layers=1 exact=True cand=4  0.0s
+12:59:00  n=   300 rep=270  pair*n/ln n= 1.133  ecc*n/ln n= 2.477  diam*n/ln n= 3.819  M=5.49e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=271  pair*n/ln n= 1.412  ecc*n/ln n= 2.294  diam*n/ln n= 3.018  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=272  pair*n/ln n= 1.983  ecc*n/ln n= 2.806  diam*n/ln n= 3.180  M=5.48e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=273  pair*n/ln n= 0.375  ecc*n/ln n= 2.049  diam*n/ln n= 3.235  M=5.53e+03 layers=1 exact=True cand=2  0.0s
+12:59:00  n=   300 rep=274  pair*n/ln n= 1.516  ecc*n/ln n= 2.133  diam*n/ln n= 2.937  M=5.62e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=275  pair*n/ln n= 1.039  ecc*n/ln n= 2.339  diam*n/ln n= 2.850  M=5.58e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=276  pair*n/ln n= 1.134  ecc*n/ln n= 2.065  diam*n/ln n= 3.197  M=5.54e+03 layers=1 exact=True cand=4  0.0s
+12:59:00  n=   300 rep=277  pair*n/ln n= 0.427  ecc*n/ln n= 2.117  diam*n/ln n= 2.912  M=5.64e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=278  pair*n/ln n= 2.124  ecc*n/ln n= 2.622  diam*n/ln n= 3.154  M=5.57e+03 layers=1 exact=True cand=0  0.0s
+12:59:00  n=   300 rep=279  pair*n/ln n= 0.997  ecc*n/ln n= 2.035  diam*n/ln n= 2.882  M=5.5e+03 layers=1 exact=True cand=3  0.0s
+12:59:01  n=   300 rep=280  pair*n/ln n= 0.618  ecc*n/ln n= 2.196  diam*n/ln n= 3.103  M=5.51e+03 layers=1 exact=True cand=3  0.0s
+12:59:01  n=   300 rep=281  pair*n/ln n= 1.094  ecc*n/ln n= 1.691  diam*n/ln n= 2.457  M=5.46e+03 layers=1 exact=True cand=2  0.0s
+12:59:01  n=   300 rep=282  pair*n/ln n= 0.854  ecc*n/ln n= 2.398  diam*n/ln n= 3.313  M=5.64e+03 layers=1 exact=True cand=0  0.0s
+12:59:01  n=   300 rep=283  pair*n/ln n= 0.624  ecc*n/ln n= 1.780  diam*n/ln n= 3.078  M=5.57e+03 layers=1 exact=True cand=0  0.0s
+12:59:01  n=   300 rep=284  pair*n/ln n= 0.551  ecc*n/ln n= 1.870  diam*n/ln n= 2.703  M=5.63e+03 layers=1 exact=True cand=0  0.0s
+12:59:01  n=   300 rep=285  pair*n/ln n= 1.200  ecc*n/ln n= 2.156  diam*n/ln n= 3.130  M=5.56e+03 layers=1 exact=True cand=0  0.0s
+12:59:01  n=   300 rep=286  pair*n/ln n= 0.954  ecc*n/ln n= 2.053  diam*n/ln n= 2.946  M=5.63e+03 layers=1 exact=True cand=1  0.0s
+12:59:01  n=   300 rep=287  pair*n/ln n= 1.402  ecc*n/ln n= 2.246  diam*n/ln n= 3.051  M=5.67e+03 layers=1 exact=True cand=2  0.0s
+12:59:01  n=   300 rep=288  pair*n/ln n= 1.996  ecc*n/ln n= 2.126  diam*n/ln n= 2.591  M=5.57e+03 layers=1 exact=True cand=0  0.0s
+12:59:01  n=   300 rep=289  pair*n/ln n= 0.376  ecc*n/ln n= 1.789  diam*n/ln n= 2.877  M=5.5e+03 layers=1 exact=True cand=1  0.0s
+12:59:01  n=   300 rep=290  pair*n/ln n= 1.289  ecc*n/ln n= 2.260  diam*n/ln n= 3.185  M=5.5e+03 layers=1 exact=True cand=0  0.0s
+12:59:01  n=   300 rep=291  pair*n/ln n= 0.670  ecc*n/ln n= 1.770  diam*n/ln n= 2.626  M=5.6e+03 layers=1 exact=True cand=0  0.0s
+12:59:01  n=   300 rep=292  pair*n/ln n= 1.463  ecc*n/ln n= 2.473  diam*n/ln n= 2.720  M=5.67e+03 layers=1 exact=True cand=0  0.0s
+12:59:01  n=   300 rep=293  pair*n/ln n= 0.618  ecc*n/ln n= 2.203  diam*n/ln n= 3.340  M=5.56e+03 layers=1 exact=True cand=0  0.0s
+12:59:01  n=   300 rep=294  pair*n/ln n= 1.071  ecc*n/ln n= 3.004  diam*n/ln n= 3.420  M=5.55e+03 layers=1 exact=True cand=0  0.0s
+12:59:01  n=   300 rep=295  pair*n/ln n= 1.336  ecc*n/ln n= 2.123  diam*n/ln n= 2.693  M=5.5e+03 layers=1 exact=True cand=2  0.0s
+12:59:01  n=   300 rep=296  pair*n/ln n= 1.303  ecc*n/ln n= 2.067  diam*n/ln n= 2.829  M=5.46e+03 layers=1 exact=True cand=1  0.0s
+12:59:01  n=   300 rep=297  pair*n/ln n= 1.547  ecc*n/ln n= 1.993  diam*n/ln n= 3.083  M=5.56e+03 layers=1 exact=True cand=1  0.0s
+12:59:01  n=   300 rep=298  pair*n/ln n= 0.945  ecc*n/ln n= 2.355  diam*n/ln n= 2.832  M=5.65e+03 layers=1 exact=True cand=0  0.0s
+12:59:01  n=   300 rep=299  pair*n/ln n= 1.362  ecc*n/ln n= 1.598  diam*n/ln n= 2.993  M=5.6e+03 layers=1 exact=True cand=0  0.0s
+12:59:02  [report] updated results_dim1.md and plots/dim1_dashboard.png
+12:59:02  --- dim=1 n=1000 reps=200 diam=True est. M=2.36e+04 simplices, 0.00 GB, 12 threads
+12:59:02  n=  1000 rep=  0  pair*n/ln n= 0.845  ecc*n/ln n= 2.032  diam*n/ln n= 2.837  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=  1  pair*n/ln n= 1.314  ecc*n/ln n= 2.337  diam*n/ln n= 3.306  M=2.34e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep=  2  pair*n/ln n= 1.999  ecc*n/ln n= 2.421  diam*n/ln n= 2.656  M=2.37e+04 layers=1 exact=True cand=4  0.0s
+12:59:02  n=  1000 rep=  3  pair*n/ln n= 1.042  ecc*n/ln n= 2.080  diam*n/ln n= 2.806  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=  4  pair*n/ln n= 1.581  ecc*n/ln n= 2.401  diam*n/ln n= 3.198  M=2.38e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=  5  pair*n/ln n= 1.039  ecc*n/ln n= 2.038  diam*n/ln n= 3.069  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=  6  pair*n/ln n= 0.704  ecc*n/ln n= 2.204  diam*n/ln n= 3.036  M=2.36e+04 layers=1 exact=True cand=2  0.0s
+12:59:02  n=  1000 rep=  7  pair*n/ln n= 1.212  ecc*n/ln n= 2.103  diam*n/ln n= 2.894  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=  8  pair*n/ln n= 0.914  ecc*n/ln n= 1.922  diam*n/ln n= 2.854  M=2.37e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep=  9  pair*n/ln n= 0.419  ecc*n/ln n= 2.105  diam*n/ln n= 3.188  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 10  pair*n/ln n= 1.741  ecc*n/ln n= 2.922  diam*n/ln n= 3.331  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 11  pair*n/ln n= 0.412  ecc*n/ln n= 2.131  diam*n/ln n= 2.826  M=2.37e+04 layers=1 exact=True cand=4  0.0s
+12:59:02  n=  1000 rep= 12  pair*n/ln n= 0.898  ecc*n/ln n= 2.173  diam*n/ln n= 3.093  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 13  pair*n/ln n= 0.854  ecc*n/ln n= 1.928  diam*n/ln n= 2.824  M=2.35e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep= 14  pair*n/ln n= 1.071  ecc*n/ln n= 1.953  diam*n/ln n= 2.966  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 15  pair*n/ln n= 0.466  ecc*n/ln n= 2.411  diam*n/ln n= 3.394  M=2.38e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 16  pair*n/ln n= 0.539  ecc*n/ln n= 2.343  diam*n/ln n= 3.406  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 17  pair*n/ln n= 1.404  ecc*n/ln n= 2.975  diam*n/ln n= 3.379  M=2.38e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 18  pair*n/ln n= 0.835  ecc*n/ln n= 1.683  diam*n/ln n= 2.702  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 19  pair*n/ln n= 1.596  ecc*n/ln n= 2.674  diam*n/ln n= 3.171  M=2.34e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep= 20  pair*n/ln n= 1.098  ecc*n/ln n= 2.163  diam*n/ln n= 2.789  M=2.38e+04 layers=1 exact=True cand=2  0.0s
+12:59:02  n=  1000 rep= 21  pair*n/ln n= 0.237  ecc*n/ln n= 2.048  diam*n/ln n= 3.120  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 22  pair*n/ln n= 1.722  ecc*n/ln n= 2.769  diam*n/ln n= 2.927  M=2.36e+04 layers=1 exact=True cand=3  0.0s
+12:59:02  n=  1000 rep= 23  pair*n/ln n= 1.129  ecc*n/ln n= 2.091  diam*n/ln n= 3.261  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 24  pair*n/ln n= 1.063  ecc*n/ln n= 2.347  diam*n/ln n= 3.298  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 25  pair*n/ln n= 1.253  ecc*n/ln n= 2.218  diam*n/ln n= 2.826  M=2.34e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep= 26  pair*n/ln n= 1.018  ecc*n/ln n= 2.243  diam*n/ln n= 2.974  M=2.37e+04 layers=1 exact=True cand=2  0.0s
+12:59:02  n=  1000 rep= 27  pair*n/ln n= 1.140  ecc*n/ln n= 2.400  diam*n/ln n= 3.087  M=2.36e+04 layers=1 exact=True cand=4  0.0s
+12:59:02  n=  1000 rep= 28  pair*n/ln n= 0.922  ecc*n/ln n= 1.949  diam*n/ln n= 2.630  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 29  pair*n/ln n= 0.757  ecc*n/ln n= 2.030  diam*n/ln n= 3.058  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 30  pair*n/ln n= 1.440  ecc*n/ln n= 2.622  diam*n/ln n= 3.429  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 31  pair*n/ln n= 0.852  ecc*n/ln n= 2.285  diam*n/ln n= 2.940  M=2.34e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep= 32  pair*n/ln n= 0.660  ecc*n/ln n= 2.287  diam*n/ln n= 3.140  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 33  pair*n/ln n= 1.557  ecc*n/ln n= 2.107  diam*n/ln n= 3.085  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 34  pair*n/ln n= 1.048  ecc*n/ln n= 2.472  diam*n/ln n= 2.996  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 35  pair*n/ln n= 1.566  ecc*n/ln n= 2.383  diam*n/ln n= 2.777  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 36  pair*n/ln n= 0.873  ecc*n/ln n= 2.192  diam*n/ln n= 3.199  M=2.36e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep= 37  pair*n/ln n= 0.990  ecc*n/ln n= 2.356  diam*n/ln n= 2.932  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 38  pair*n/ln n= 0.795  ecc*n/ln n= 1.946  diam*n/ln n= 2.843  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 39  pair*n/ln n= 0.378  ecc*n/ln n= 2.221  diam*n/ln n= 3.139  M=2.35e+04 layers=1 exact=True cand=4  0.0s
+12:59:02  n=  1000 rep= 40  pair*n/ln n= 0.531  ecc*n/ln n= 1.985  diam*n/ln n= 3.005  M=2.36e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep= 41  pair*n/ln n= 1.605  ecc*n/ln n= 1.818  diam*n/ln n= 2.655  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 42  pair*n/ln n= 1.289  ecc*n/ln n= 2.297  diam*n/ln n= 3.055  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 43  pair*n/ln n= 1.702  ecc*n/ln n= 2.098  diam*n/ln n= 3.010  M=2.35e+04 layers=1 exact=True cand=3  0.0s
+12:59:02  n=  1000 rep= 44  pair*n/ln n= 1.035  ecc*n/ln n= 2.262  diam*n/ln n= 3.013  M=2.34e+04 layers=1 exact=True cand=3  0.0s
+12:59:02  n=  1000 rep= 45  pair*n/ln n= 1.065  ecc*n/ln n= 2.283  diam*n/ln n= 3.384  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 46  pair*n/ln n= 1.372  ecc*n/ln n= 1.956  diam*n/ln n= 2.878  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 47  pair*n/ln n= 1.002  ecc*n/ln n= 2.347  diam*n/ln n= 3.275  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 48  pair*n/ln n= 1.096  ecc*n/ln n= 1.857  diam*n/ln n= 2.781  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 49  pair*n/ln n= 0.459  ecc*n/ln n= 2.814  diam*n/ln n= 3.370  M=2.36e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep= 50  pair*n/ln n= 0.952  ecc*n/ln n= 2.045  diam*n/ln n= 3.034  M=2.33e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 51  pair*n/ln n= 0.993  ecc*n/ln n= 1.997  diam*n/ln n= 3.018  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 52  pair*n/ln n= 0.903  ecc*n/ln n= 1.971  diam*n/ln n= 2.759  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 53  pair*n/ln n= 1.148  ecc*n/ln n= 2.186  diam*n/ln n= 2.837  M=2.35e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep= 54  pair*n/ln n= 1.891  ecc*n/ln n= 2.546  diam*n/ln n= 2.791  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 55  pair*n/ln n= 0.605  ecc*n/ln n= 1.904  diam*n/ln n= 3.247  M=2.35e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep= 56  pair*n/ln n= 1.008  ecc*n/ln n= 2.256  diam*n/ln n= 3.463  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 57  pair*n/ln n= 2.082  ecc*n/ln n= 2.628  diam*n/ln n= 3.009  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 58  pair*n/ln n= 0.821  ecc*n/ln n= 1.872  diam*n/ln n= 2.961  M=2.35e+04 layers=1 exact=True cand=9  0.0s
+12:59:02  n=  1000 rep= 59  pair*n/ln n= 0.420  ecc*n/ln n= 1.830  diam*n/ln n= 2.778  M=2.37e+04 layers=1 exact=True cand=5  0.0s
+12:59:02  n=  1000 rep= 60  pair*n/ln n= 1.015  ecc*n/ln n= 2.125  diam*n/ln n= 3.172  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 61  pair*n/ln n= 0.927  ecc*n/ln n= 2.006  diam*n/ln n= 2.918  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 62  pair*n/ln n= 0.595  ecc*n/ln n= 1.829  diam*n/ln n= 2.912  M=2.35e+04 layers=1 exact=True cand=9  0.0s
+12:59:02  n=  1000 rep= 63  pair*n/ln n= 0.882  ecc*n/ln n= 2.043  diam*n/ln n= 3.243  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 64  pair*n/ln n= 0.927  ecc*n/ln n= 1.955  diam*n/ln n= 2.714  M=2.36e+04 layers=1 exact=True cand=16  0.0s
+12:59:02  n=  1000 rep= 65  pair*n/ln n= 1.154  ecc*n/ln n= 2.448  diam*n/ln n= 3.179  M=2.36e+04 layers=1 exact=True cand=2  0.0s
+12:59:02  n=  1000 rep= 66  pair*n/ln n= 0.932  ecc*n/ln n= 2.662  diam*n/ln n= 3.761  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 67  pair*n/ln n= 0.786  ecc*n/ln n= 1.930  diam*n/ln n= 2.827  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 68  pair*n/ln n= 0.663  ecc*n/ln n= 2.109  diam*n/ln n= 3.072  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 69  pair*n/ln n= 1.003  ecc*n/ln n= 2.087  diam*n/ln n= 3.142  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 70  pair*n/ln n= 0.903  ecc*n/ln n= 1.948  diam*n/ln n= 3.262  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 71  pair*n/ln n= 1.131  ecc*n/ln n= 1.919  diam*n/ln n= 2.859  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 72  pair*n/ln n= 1.304  ecc*n/ln n= 2.279  diam*n/ln n= 3.434  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 73  pair*n/ln n= 1.523  ecc*n/ln n= 3.031  diam*n/ln n= 3.779  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 74  pair*n/ln n= 1.349  ecc*n/ln n= 1.891  diam*n/ln n= 2.553  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 75  pair*n/ln n= 1.142  ecc*n/ln n= 1.936  diam*n/ln n= 3.027  M=2.35e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep= 76  pair*n/ln n= 0.949  ecc*n/ln n= 2.151  diam*n/ln n= 2.984  M=2.36e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep= 77  pair*n/ln n= 1.152  ecc*n/ln n= 2.105  diam*n/ln n= 3.087  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 78  pair*n/ln n= 1.165  ecc*n/ln n= 2.095  diam*n/ln n= 3.016  M=2.33e+04 layers=1 exact=True cand=3  0.0s
+12:59:02  n=  1000 rep= 79  pair*n/ln n= 0.386  ecc*n/ln n= 2.104  diam*n/ln n= 3.061  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 80  pair*n/ln n= 1.541  ecc*n/ln n= 2.574  diam*n/ln n= 3.128  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 81  pair*n/ln n= 0.931  ecc*n/ln n= 1.962  diam*n/ln n= 2.886  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 82  pair*n/ln n= 1.061  ecc*n/ln n= 1.902  diam*n/ln n= 2.808  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 83  pair*n/ln n= 0.853  ecc*n/ln n= 2.192  diam*n/ln n= 3.259  M=2.35e+04 layers=1 exact=True cand=2  0.0s
+12:59:02  n=  1000 rep= 84  pair*n/ln n= 0.753  ecc*n/ln n= 2.173  diam*n/ln n= 3.161  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 85  pair*n/ln n= 1.196  ecc*n/ln n= 2.089  diam*n/ln n= 2.855  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 86  pair*n/ln n= 0.991  ecc*n/ln n= 1.986  diam*n/ln n= 2.857  M=2.34e+04 layers=1 exact=True cand=13  0.0s
+12:59:02  n=  1000 rep= 87  pair*n/ln n= 0.997  ecc*n/ln n= 2.218  diam*n/ln n= 2.884  M=2.35e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep= 88  pair*n/ln n= 0.827  ecc*n/ln n= 1.829  diam*n/ln n= 2.981  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 89  pair*n/ln n= 1.034  ecc*n/ln n= 1.789  diam*n/ln n= 2.769  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 90  pair*n/ln n= 1.157  ecc*n/ln n= 2.187  diam*n/ln n= 3.096  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 91  pair*n/ln n= 1.214  ecc*n/ln n= 2.391  diam*n/ln n= 2.995  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 92  pair*n/ln n= 1.701  ecc*n/ln n= 2.903  diam*n/ln n= 3.019  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 93  pair*n/ln n= 1.099  ecc*n/ln n= 2.222  diam*n/ln n= 3.127  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 94  pair*n/ln n= 0.854  ecc*n/ln n= 1.919  diam*n/ln n= 2.954  M=2.35e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep= 95  pair*n/ln n= 0.867  ecc*n/ln n= 2.423  diam*n/ln n= 3.666  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 96  pair*n/ln n= 1.652  ecc*n/ln n= 2.608  diam*n/ln n= 3.169  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 97  pair*n/ln n= 1.218  ecc*n/ln n= 2.409  diam*n/ln n= 2.732  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 98  pair*n/ln n= 1.540  ecc*n/ln n= 2.230  diam*n/ln n= 3.253  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep= 99  pair*n/ln n= 1.359  ecc*n/ln n= 2.085  diam*n/ln n= 2.997  M=2.34e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep=100  pair*n/ln n= 0.732  ecc*n/ln n= 2.064  diam*n/ln n= 3.245  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=101  pair*n/ln n= 0.610  ecc*n/ln n= 2.302  diam*n/ln n= 3.384  M=2.36e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep=102  pair*n/ln n= 1.134  ecc*n/ln n= 2.170  diam*n/ln n= 3.385  M=2.33e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=103  pair*n/ln n= 1.102  ecc*n/ln n= 2.004  diam*n/ln n= 3.038  M=2.36e+04 layers=1 exact=True cand=18  0.0s
+12:59:02  n=  1000 rep=104  pair*n/ln n= 1.060  ecc*n/ln n= 1.745  diam*n/ln n= 2.625  M=2.38e+04 layers=1 exact=True cand=3  0.0s
+12:59:02  n=  1000 rep=105  pair*n/ln n= 0.826  ecc*n/ln n= 2.012  diam*n/ln n= 3.173  M=2.37e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep=106  pair*n/ln n= 1.079  ecc*n/ln n= 1.797  diam*n/ln n= 2.817  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=107  pair*n/ln n= 1.080  ecc*n/ln n= 2.335  diam*n/ln n= 3.610  M=2.39e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=108  pair*n/ln n= 0.993  ecc*n/ln n= 2.253  diam*n/ln n= 3.192  M=2.34e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep=109  pair*n/ln n= 1.278  ecc*n/ln n= 1.887  diam*n/ln n= 2.912  M=2.38e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep=110  pair*n/ln n= 1.156  ecc*n/ln n= 2.150  diam*n/ln n= 3.437  M=2.38e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep=111  pair*n/ln n= 1.058  ecc*n/ln n= 2.159  diam*n/ln n= 3.025  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=112  pair*n/ln n= 1.564  ecc*n/ln n= 2.073  diam*n/ln n= 3.175  M=2.32e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep=113  pair*n/ln n= 0.878  ecc*n/ln n= 2.102  diam*n/ln n= 3.160  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=114  pair*n/ln n= 0.811  ecc*n/ln n= 1.860  diam*n/ln n= 2.902  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=115  pair*n/ln n= 0.450  ecc*n/ln n= 2.327  diam*n/ln n= 2.966  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=116  pair*n/ln n= 0.927  ecc*n/ln n= 1.871  diam*n/ln n= 3.121  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=117  pair*n/ln n= 0.970  ecc*n/ln n= 1.857  diam*n/ln n= 2.901  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=118  pair*n/ln n= 0.437  ecc*n/ln n= 2.335  diam*n/ln n= 3.481  M=2.38e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=119  pair*n/ln n= 0.582  ecc*n/ln n= 1.769  diam*n/ln n= 2.824  M=2.36e+04 layers=1 exact=True cand=2  0.0s
+12:59:02  n=  1000 rep=120  pair*n/ln n= 1.063  ecc*n/ln n= 2.444  diam*n/ln n= 3.234  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=121  pair*n/ln n= 0.480  ecc*n/ln n= 2.108  diam*n/ln n= 2.999  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=122  pair*n/ln n= 1.080  ecc*n/ln n= 2.396  diam*n/ln n= 3.146  M=2.34e+04 layers=1 exact=True cand=3  0.0s
+12:59:02  n=  1000 rep=123  pair*n/ln n= 1.119  ecc*n/ln n= 2.476  diam*n/ln n= 3.271  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=124  pair*n/ln n= 0.915  ecc*n/ln n= 1.873  diam*n/ln n= 3.008  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=125  pair*n/ln n= 1.326  ecc*n/ln n= 1.984  diam*n/ln n= 2.982  M=2.38e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=126  pair*n/ln n= 1.206  ecc*n/ln n= 2.229  diam*n/ln n= 3.539  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=127  pair*n/ln n= 1.037  ecc*n/ln n= 2.361  diam*n/ln n= 3.101  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=128  pair*n/ln n= 0.941  ecc*n/ln n= 2.287  diam*n/ln n= 3.228  M=2.31e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=129  pair*n/ln n= 0.998  ecc*n/ln n= 1.902  diam*n/ln n= 2.651  M=2.35e+04 layers=1 exact=True cand=2  0.0s
+12:59:02  n=  1000 rep=130  pair*n/ln n= 1.189  ecc*n/ln n= 2.417  diam*n/ln n= 2.541  M=2.37e+04 layers=1 exact=True cand=4  0.0s
+12:59:02  n=  1000 rep=131  pair*n/ln n= 0.674  ecc*n/ln n= 2.031  diam*n/ln n= 2.972  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=132  pair*n/ln n= 1.438  ecc*n/ln n= 2.042  diam*n/ln n= 3.069  M=2.37e+04 layers=1 exact=True cand=5  0.0s
+12:59:02  n=  1000 rep=133  pair*n/ln n= 1.290  ecc*n/ln n= 1.947  diam*n/ln n= 2.868  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=134  pair*n/ln n= 1.172  ecc*n/ln n= 2.646  diam*n/ln n= 3.990  M=2.33e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=135  pair*n/ln n= 1.069  ecc*n/ln n= 2.143  diam*n/ln n= 3.064  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=136  pair*n/ln n= 1.164  ecc*n/ln n= 2.180  diam*n/ln n= 3.085  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=137  pair*n/ln n= 1.140  ecc*n/ln n= 2.249  diam*n/ln n= 2.902  M=2.33e+04 layers=1 exact=True cand=3  0.0s
+12:59:02  n=  1000 rep=138  pair*n/ln n= 1.186  ecc*n/ln n= 1.856  diam*n/ln n= 3.029  M=2.36e+04 layers=1 exact=True cand=4  0.0s
+12:59:02  n=  1000 rep=139  pair*n/ln n= 0.824  ecc*n/ln n= 1.928  diam*n/ln n= 3.081  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=140  pair*n/ln n= 1.581  ecc*n/ln n= 2.387  diam*n/ln n= 3.027  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=141  pair*n/ln n= 0.848  ecc*n/ln n= 2.165  diam*n/ln n= 3.326  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=142  pair*n/ln n= 1.480  ecc*n/ln n= 1.980  diam*n/ln n= 2.892  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=143  pair*n/ln n= 0.749  ecc*n/ln n= 1.953  diam*n/ln n= 3.022  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=144  pair*n/ln n= 1.475  ecc*n/ln n= 2.303  diam*n/ln n= 2.994  M=2.35e+04 layers=1 exact=True cand=5  0.0s
+12:59:02  n=  1000 rep=145  pair*n/ln n= 1.134  ecc*n/ln n= 2.273  diam*n/ln n= 3.115  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=146  pair*n/ln n= 0.775  ecc*n/ln n= 1.833  diam*n/ln n= 2.758  M=2.32e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep=147  pair*n/ln n= 1.155  ecc*n/ln n= 2.160  diam*n/ln n= 3.157  M=2.34e+04 layers=1 exact=True cand=4  0.0s
+12:59:02  n=  1000 rep=148  pair*n/ln n= 1.300  ecc*n/ln n= 2.096  diam*n/ln n= 2.746  M=2.34e+04 layers=1 exact=True cand=3  0.0s
+12:59:02  n=  1000 rep=149  pair*n/ln n= 1.128  ecc*n/ln n= 2.437  diam*n/ln n= 3.133  M=2.38e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=150  pair*n/ln n= 1.580  ecc*n/ln n= 2.266  diam*n/ln n= 3.020  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=151  pair*n/ln n= 1.427  ecc*n/ln n= 2.165  diam*n/ln n= 3.077  M=2.37e+04 layers=1 exact=True cand=1  0.0s
+12:59:02  n=  1000 rep=152  pair*n/ln n= 0.578  ecc*n/ln n= 1.860  diam*n/ln n= 3.149  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=153  pair*n/ln n= 1.288  ecc*n/ln n= 2.125  diam*n/ln n= 2.973  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:02  n=  1000 rep=154  pair*n/ln n= 1.423  ecc*n/ln n= 2.109  diam*n/ln n= 2.897  M=2.34e+04 layers=1 exact=True cand=2  0.0s
+12:59:02  n=  1000 rep=155  pair*n/ln n= 1.089  ecc*n/ln n= 2.008  diam*n/ln n= 3.077  M=2.35e+04 layers=1 exact=True cand=1  0.0s
+12:59:03  n=  1000 rep=156  pair*n/ln n= 0.988  ecc*n/ln n= 1.886  diam*n/ln n= 2.774  M=2.36e+04 layers=1 exact=True cand=4  0.0s
+12:59:03  n=  1000 rep=157  pair*n/ln n= 1.088  ecc*n/ln n= 2.660  diam*n/ln n= 3.592  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=158  pair*n/ln n= 1.041  ecc*n/ln n= 1.848  diam*n/ln n= 3.184  M=2.35e+04 layers=1 exact=True cand=1  0.0s
+12:59:03  n=  1000 rep=159  pair*n/ln n= 1.475  ecc*n/ln n= 2.254  diam*n/ln n= 2.821  M=2.39e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=160  pair*n/ln n= 1.521  ecc*n/ln n= 1.953  diam*n/ln n= 2.965  M=2.35e+04 layers=1 exact=True cand=1  0.0s
+12:59:03  n=  1000 rep=161  pair*n/ln n= 0.967  ecc*n/ln n= 2.130  diam*n/ln n= 3.113  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=162  pair*n/ln n= 1.375  ecc*n/ln n= 1.681  diam*n/ln n= 2.751  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=163  pair*n/ln n= 0.939  ecc*n/ln n= 1.954  diam*n/ln n= 2.863  M=2.34e+04 layers=1 exact=True cand=1  0.0s
+12:59:03  n=  1000 rep=164  pair*n/ln n= 0.920  ecc*n/ln n= 2.036  diam*n/ln n= 3.242  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=165  pair*n/ln n= 1.339  ecc*n/ln n= 2.048  diam*n/ln n= 3.117  M=2.38e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=166  pair*n/ln n= 1.082  ecc*n/ln n= 1.934  diam*n/ln n= 2.801  M=2.37e+04 layers=1 exact=True cand=3  0.0s
+12:59:03  n=  1000 rep=167  pair*n/ln n= 0.768  ecc*n/ln n= 1.950  diam*n/ln n= 3.023  M=2.35e+04 layers=1 exact=True cand=1  0.0s
+12:59:03  n=  1000 rep=168  pair*n/ln n= 1.221  ecc*n/ln n= 2.022  diam*n/ln n= 3.091  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=169  pair*n/ln n= 1.096  ecc*n/ln n= 1.841  diam*n/ln n= 3.237  M=2.4e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=170  pair*n/ln n= 1.377  ecc*n/ln n= 2.262  diam*n/ln n= 2.781  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=171  pair*n/ln n= 0.503  ecc*n/ln n= 1.868  diam*n/ln n= 3.296  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=172  pair*n/ln n= 1.191  ecc*n/ln n= 2.430  diam*n/ln n= 3.033  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=173  pair*n/ln n= 0.757  ecc*n/ln n= 2.049  diam*n/ln n= 3.041  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=174  pair*n/ln n= 0.803  ecc*n/ln n= 2.223  diam*n/ln n= 3.113  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=175  pair*n/ln n= 1.113  ecc*n/ln n= 2.016  diam*n/ln n= 3.293  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=176  pair*n/ln n= 1.263  ecc*n/ln n= 2.187  diam*n/ln n= 3.450  M=2.33e+04 layers=1 exact=True cand=1  0.0s
+12:59:03  n=  1000 rep=177  pair*n/ln n= 0.826  ecc*n/ln n= 1.815  diam*n/ln n= 2.575  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=178  pair*n/ln n= 1.019  ecc*n/ln n= 1.934  diam*n/ln n= 3.180  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=179  pair*n/ln n= 0.511  ecc*n/ln n= 1.817  diam*n/ln n= 3.024  M=2.38e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=180  pair*n/ln n= 1.007  ecc*n/ln n= 2.304  diam*n/ln n= 3.186  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=181  pair*n/ln n= 0.979  ecc*n/ln n= 2.095  diam*n/ln n= 2.822  M=2.37e+04 layers=1 exact=True cand=2  0.0s
+12:59:03  n=  1000 rep=182  pair*n/ln n= 0.840  ecc*n/ln n= 2.298  diam*n/ln n= 3.343  M=2.39e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=183  pair*n/ln n= 1.618  ecc*n/ln n= 1.958  diam*n/ln n= 2.634  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=184  pair*n/ln n= 1.346  ecc*n/ln n= 2.396  diam*n/ln n= 3.129  M=2.33e+04 layers=1 exact=True cand=2  0.0s
+12:59:03  n=  1000 rep=185  pair*n/ln n= 0.455  ecc*n/ln n= 2.662  diam*n/ln n= 3.264  M=2.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=186  pair*n/ln n= 1.598  ecc*n/ln n= 2.821  diam*n/ln n= 3.153  M=2.38e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=187  pair*n/ln n= 0.549  ecc*n/ln n= 2.010  diam*n/ln n= 3.089  M=2.38e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=188  pair*n/ln n= 0.803  ecc*n/ln n= 2.241  diam*n/ln n= 3.286  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=189  pair*n/ln n= 0.973  ecc*n/ln n= 2.495  diam*n/ln n= 3.270  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=190  pair*n/ln n= 1.015  ecc*n/ln n= 1.914  diam*n/ln n= 2.846  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=191  pair*n/ln n= 0.990  ecc*n/ln n= 2.275  diam*n/ln n= 3.105  M=2.36e+04 layers=1 exact=True cand=1  0.0s
+12:59:03  n=  1000 rep=192  pair*n/ln n= 1.366  ecc*n/ln n= 1.879  diam*n/ln n= 2.925  M=2.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=193  pair*n/ln n= 1.146  ecc*n/ln n= 2.220  diam*n/ln n= 3.420  M=2.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=194  pair*n/ln n= 1.494  ecc*n/ln n= 1.855  diam*n/ln n= 2.941  M=2.38e+04 layers=1 exact=True cand=3  0.0s
+12:59:03  n=  1000 rep=195  pair*n/ln n= 1.199  ecc*n/ln n= 2.163  diam*n/ln n= 2.882  M=2.34e+04 layers=1 exact=True cand=2  0.0s
+12:59:03  n=  1000 rep=196  pair*n/ln n= 1.024  ecc*n/ln n= 1.977  diam*n/ln n= 3.045  M=2.33e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=197  pair*n/ln n= 1.285  ecc*n/ln n= 2.305  diam*n/ln n= 2.912  M=2.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:03  n=  1000 rep=198  pair*n/ln n= 1.297  ecc*n/ln n= 2.091  diam*n/ln n= 2.799  M=2.36e+04 layers=1 exact=True cand=2  0.0s
+12:59:03  n=  1000 rep=199  pair*n/ln n= 1.599  ecc*n/ln n= 2.439  diam*n/ln n= 2.971  M=2.33e+04 layers=1 exact=True cand=0  0.0s
+12:59:04  [report] updated results_dim1.md and plots/dim1_dashboard.png
+12:59:04  --- dim=1 n=3000 reps=100 diam=True est. M=8.33e+04 simplices, 0.00 GB, 12 threads
+12:59:04  n=  3000 rep=  0  pair*n/ln n= 0.901  ecc*n/ln n= 2.136  diam*n/ln n= 2.965  M=8.34e+04 layers=1 exact=True cand=1  0.0s
+12:59:04  n=  3000 rep=  1  pair*n/ln n= 0.979  ecc*n/ln n= 2.233  diam*n/ln n= 3.052  M=8.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:04  n=  3000 rep=  2  pair*n/ln n= 0.779  ecc*n/ln n= 1.882  diam*n/ln n= 2.848  M=8.31e+04 layers=1 exact=True cand=0  0.0s
+12:59:04  n=  3000 rep=  3  pair*n/ln n= 1.340  ecc*n/ln n= 1.986  diam*n/ln n= 2.905  M=8.32e+04 layers=1 exact=True cand=0  0.0s
+12:59:04  n=  3000 rep=  4  pair*n/ln n= 0.665  ecc*n/ln n= 2.113  diam*n/ln n= 3.078  M=8.29e+04 layers=1 exact=True cand=1  0.0s
+12:59:04  n=  3000 rep=  5  pair*n/ln n= 0.756  ecc*n/ln n= 1.940  diam*n/ln n= 2.783  M=8.31e+04 layers=1 exact=True cand=3  0.0s
+12:59:04  n=  3000 rep=  6  pair*n/ln n= 1.009  ecc*n/ln n= 1.848  diam*n/ln n= 3.087  M=8.29e+04 layers=1 exact=True cand=0  0.0s
+12:59:04  n=  3000 rep=  7  pair*n/ln n= 0.912  ecc*n/ln n= 2.565  diam*n/ln n= 3.406  M=8.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:04  n=  3000 rep=  8  pair*n/ln n= 1.062  ecc*n/ln n= 1.961  diam*n/ln n= 2.674  M=8.33e+04 layers=1 exact=True cand=0  0.0s
+12:59:04  n=  3000 rep=  9  pair*n/ln n= 1.145  ecc*n/ln n= 2.461  diam*n/ln n= 3.105  M=8.32e+04 layers=1 exact=True cand=3  0.0s
+12:59:04  n=  3000 rep= 10  pair*n/ln n= 1.823  ecc*n/ln n= 2.580  diam*n/ln n= 2.900  M=8.27e+04 layers=1 exact=True cand=0  0.0s
+12:59:04  n=  3000 rep= 11  pair*n/ln n= 1.262  ecc*n/ln n= 2.285  diam*n/ln n= 3.248  M=8.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:04  n=  3000 rep= 12  pair*n/ln n= 1.242  ecc*n/ln n= 2.033  diam*n/ln n= 2.895  M=8.26e+04 layers=1 exact=True cand=6  0.0s
+12:59:04  n=  3000 rep= 13  pair*n/ln n= 1.012  ecc*n/ln n= 2.235  diam*n/ln n= 3.060  M=8.32e+04 layers=1 exact=True cand=0  0.0s
+12:59:04  n=  3000 rep= 14  pair*n/ln n= 1.176  ecc*n/ln n= 2.430  diam*n/ln n= 3.282  M=8.34e+04 layers=1 exact=True cand=3  0.0s
+12:59:04  n=  3000 rep= 15  pair*n/ln n= 1.135  ecc*n/ln n= 2.181  diam*n/ln n= 3.097  M=8.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:04  n=  3000 rep= 16  pair*n/ln n= 1.133  ecc*n/ln n= 2.028  diam*n/ln n= 2.981  M=8.36e+04 layers=1 exact=True cand=1  0.0s
+12:59:04  n=  3000 rep= 17  pair*n/ln n= 1.604  ecc*n/ln n= 2.166  diam*n/ln n= 3.098  M=8.3e+04 layers=1 exact=True cand=0  0.0s
+12:59:04  n=  3000 rep= 18  pair*n/ln n= 0.813  ecc*n/ln n= 2.046  diam*n/ln n= 2.953  M=8.33e+04 layers=1 exact=True cand=1  0.0s
+12:59:04  n=  3000 rep= 19  pair*n/ln n= 1.459  ecc*n/ln n= 2.543  diam*n/ln n= 3.069  M=8.26e+04 layers=1 exact=True cand=1  0.0s
+12:59:04  n=  3000 rep= 20  pair*n/ln n= 1.348  ecc*n/ln n= 2.178  diam*n/ln n= 2.960  M=8.34e+04 layers=1 exact=True cand=5  0.0s
+12:59:04  n=  3000 rep= 21  pair*n/ln n= 0.906  ecc*n/ln n= 2.295  diam*n/ln n= 3.228  M=8.31e+04 layers=1 exact=True cand=1  0.0s
+12:59:04  n=  3000 rep= 22  pair*n/ln n= 0.671  ecc*n/ln n= 2.002  diam*n/ln n= 3.172  M=8.3e+04 layers=1 exact=True cand=0  0.0s
+12:59:04  n=  3000 rep= 23  pair*n/ln n= 0.835  ecc*n/ln n= 1.973  diam*n/ln n= 2.931  M=8.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 24  pair*n/ln n= 1.428  ecc*n/ln n= 2.186  diam*n/ln n= 3.068  M=8.31e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 25  pair*n/ln n= 1.558  ecc*n/ln n= 2.525  diam*n/ln n= 3.251  M=8.37e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 26  pair*n/ln n= 0.632  ecc*n/ln n= 1.901  diam*n/ln n= 3.046  M=8.33e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 27  pair*n/ln n= 1.514  ecc*n/ln n= 2.487  diam*n/ln n= 2.866  M=8.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 28  pair*n/ln n= 1.259  ecc*n/ln n= 2.075  diam*n/ln n= 2.968  M=8.33e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 29  pair*n/ln n= 0.985  ecc*n/ln n= 1.978  diam*n/ln n= 2.795  M=8.32e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 30  pair*n/ln n= 1.660  ecc*n/ln n= 2.595  diam*n/ln n= 3.238  M=8.29e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 31  pair*n/ln n= 1.344  ecc*n/ln n= 2.052  diam*n/ln n= 2.707  M=8.28e+04 layers=1 exact=True cand=2  0.0s
+12:59:05  n=  3000 rep= 32  pair*n/ln n= 1.232  ecc*n/ln n= 2.165  diam*n/ln n= 2.950  M=8.32e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 33  pair*n/ln n= 1.029  ecc*n/ln n= 2.580  diam*n/ln n= 3.170  M=8.31e+04 layers=1 exact=True cand=1  0.0s
+12:59:05  n=  3000 rep= 34  pair*n/ln n= 0.990  ecc*n/ln n= 2.293  diam*n/ln n= 3.283  M=8.27e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 35  pair*n/ln n= 1.249  ecc*n/ln n= 2.352  diam*n/ln n= 3.229  M=8.33e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 36  pair*n/ln n= 0.746  ecc*n/ln n= 2.056  diam*n/ln n= 2.911  M=8.37e+04 layers=1 exact=True cand=6  0.0s
+12:59:05  n=  3000 rep= 37  pair*n/ln n= 1.114  ecc*n/ln n= 1.835  diam*n/ln n= 2.696  M=8.39e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 38  pair*n/ln n= 1.523  ecc*n/ln n= 2.425  diam*n/ln n= 3.137  M=8.32e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 39  pair*n/ln n= 1.227  ecc*n/ln n= 1.834  diam*n/ln n= 2.755  M=8.35e+04 layers=1 exact=True cand=1  0.0s
+12:59:05  n=  3000 rep= 40  pair*n/ln n= 1.051  ecc*n/ln n= 2.283  diam*n/ln n= 3.151  M=8.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 41  pair*n/ln n= 0.518  ecc*n/ln n= 2.013  diam*n/ln n= 2.741  M=8.34e+04 layers=1 exact=True cand=2  0.0s
+12:59:05  n=  3000 rep= 42  pair*n/ln n= 1.165  ecc*n/ln n= 2.013  diam*n/ln n= 3.546  M=8.32e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 43  pair*n/ln n= 0.872  ecc*n/ln n= 2.212  diam*n/ln n= 3.103  M=8.29e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 44  pair*n/ln n= 1.110  ecc*n/ln n= 2.194  diam*n/ln n= 3.136  M=8.33e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 45  pair*n/ln n= 1.550  ecc*n/ln n= 3.070  diam*n/ln n= 3.516  M=8.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 46  pair*n/ln n= 1.089  ecc*n/ln n= 2.040  diam*n/ln n= 2.820  M=8.31e+04 layers=1 exact=True cand=10  0.0s
+12:59:05  n=  3000 rep= 47  pair*n/ln n= 1.042  ecc*n/ln n= 1.992  diam*n/ln n= 2.900  M=8.32e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 48  pair*n/ln n= 1.184  ecc*n/ln n= 2.147  diam*n/ln n= 3.099  M=8.35e+04 layers=1 exact=True cand=5  0.0s
+12:59:05  n=  3000 rep= 49  pair*n/ln n= 1.037  ecc*n/ln n= 2.402  diam*n/ln n= 3.692  M=8.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 50  pair*n/ln n= 1.190  ecc*n/ln n= 2.426  diam*n/ln n= 3.253  M=8.36e+04 layers=1 exact=True cand=1  0.0s
+12:59:05  n=  3000 rep= 51  pair*n/ln n= 0.966  ecc*n/ln n= 1.984  diam*n/ln n= 2.779  M=8.31e+04 layers=1 exact=True cand=1  0.0s
+12:59:05  n=  3000 rep= 52  pair*n/ln n= 1.372  ecc*n/ln n= 2.456  diam*n/ln n= 3.223  M=8.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 53  pair*n/ln n= 1.380  ecc*n/ln n= 2.602  diam*n/ln n= 3.137  M=8.28e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 54  pair*n/ln n= 0.723  ecc*n/ln n= 2.084  diam*n/ln n= 3.506  M=8.3e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 55  pair*n/ln n= 1.342  ecc*n/ln n= 2.215  diam*n/ln n= 3.111  M=8.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 56  pair*n/ln n= 0.783  ecc*n/ln n= 1.904  diam*n/ln n= 2.977  M=8.33e+04 layers=1 exact=True cand=4  0.0s
+12:59:05  n=  3000 rep= 57  pair*n/ln n= 1.183  ecc*n/ln n= 2.397  diam*n/ln n= 3.101  M=8.3e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 58  pair*n/ln n= 1.147  ecc*n/ln n= 2.151  diam*n/ln n= 2.971  M=8.28e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 59  pair*n/ln n= 0.898  ecc*n/ln n= 2.231  diam*n/ln n= 3.345  M=8.32e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 60  pair*n/ln n= 1.080  ecc*n/ln n= 1.998  diam*n/ln n= 2.797  M=8.33e+04 layers=1 exact=True cand=2  0.0s
+12:59:05  n=  3000 rep= 61  pair*n/ln n= 1.123  ecc*n/ln n= 2.151  diam*n/ln n= 2.974  M=8.35e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 62  pair*n/ln n= 0.890  ecc*n/ln n= 1.869  diam*n/ln n= 3.054  M=8.29e+04 layers=1 exact=True cand=1  0.0s
+12:59:05  n=  3000 rep= 63  pair*n/ln n= 1.082  ecc*n/ln n= 1.942  diam*n/ln n= 3.049  M=8.26e+04 layers=1 exact=True cand=3  0.0s
+12:59:05  n=  3000 rep= 64  pair*n/ln n= 1.044  ecc*n/ln n= 2.618  diam*n/ln n= 3.537  M=8.3e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 65  pair*n/ln n= 1.392  ecc*n/ln n= 2.365  diam*n/ln n= 3.181  M=8.36e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 66  pair*n/ln n= 1.264  ecc*n/ln n= 2.095  diam*n/ln n= 2.924  M=8.38e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 67  pair*n/ln n= 1.460  ecc*n/ln n= 1.923  diam*n/ln n= 3.297  M=8.3e+04 layers=1 exact=True cand=2  0.0s
+12:59:05  n=  3000 rep= 68  pair*n/ln n= 1.138  ecc*n/ln n= 2.148  diam*n/ln n= 3.033  M=8.31e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 69  pair*n/ln n= 0.900  ecc*n/ln n= 2.222  diam*n/ln n= 3.330  M=8.32e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 70  pair*n/ln n= 1.246  ecc*n/ln n= 2.130  diam*n/ln n= 3.114  M=8.28e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 71  pair*n/ln n= 1.342  ecc*n/ln n= 2.291  diam*n/ln n= 2.740  M=8.36e+04 layers=1 exact=True cand=2  0.0s
+12:59:05  n=  3000 rep= 72  pair*n/ln n= 1.044  ecc*n/ln n= 2.190  diam*n/ln n= 2.918  M=8.33e+04 layers=1 exact=True cand=6  0.0s
+12:59:05  n=  3000 rep= 73  pair*n/ln n= 1.441  ecc*n/ln n= 2.334  diam*n/ln n= 2.845  M=8.33e+04 layers=1 exact=True cand=13  0.0s
+12:59:05  n=  3000 rep= 74  pair*n/ln n= 0.955  ecc*n/ln n= 1.961  diam*n/ln n= 2.882  M=8.35e+04 layers=1 exact=True cand=2  0.0s
+12:59:05  n=  3000 rep= 75  pair*n/ln n= 0.744  ecc*n/ln n= 2.037  diam*n/ln n= 3.148  M=8.38e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 76  pair*n/ln n= 0.889  ecc*n/ln n= 1.942  diam*n/ln n= 3.188  M=8.31e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 77  pair*n/ln n= 1.292  ecc*n/ln n= 2.126  diam*n/ln n= 2.760  M=8.33e+04 layers=1 exact=True cand=5  0.0s
+12:59:05  n=  3000 rep= 78  pair*n/ln n= 1.339  ecc*n/ln n= 1.963  diam*n/ln n= 2.776  M=8.34e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 79  pair*n/ln n= 1.132  ecc*n/ln n= 2.077  diam*n/ln n= 3.333  M=8.28e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 80  pair*n/ln n= 0.603  ecc*n/ln n= 1.892  diam*n/ln n= 3.011  M=8.32e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 81  pair*n/ln n= 1.124  ecc*n/ln n= 2.029  diam*n/ln n= 2.730  M=8.37e+04 layers=1 exact=True cand=2  0.0s
+12:59:05  n=  3000 rep= 82  pair*n/ln n= 1.053  ecc*n/ln n= 2.151  diam*n/ln n= 3.345  M=8.28e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 83  pair*n/ln n= 0.946  ecc*n/ln n= 1.939  diam*n/ln n= 2.993  M=8.29e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 84  pair*n/ln n= 1.479  ecc*n/ln n= 2.418  diam*n/ln n= 3.141  M=8.32e+04 layers=1 exact=True cand=0  0.0s
+12:59:05  n=  3000 rep= 85  pair*n/ln n= 1.043  ecc*n/ln n= 2.116  diam*n/ln n= 2.960  M=8.27e+04 layers=1 exact=True cand=0  0.0s
+12:59:06  n=  3000 rep= 86  pair*n/ln n= 1.131  ecc*n/ln n= 2.266  diam*n/ln n= 2.949  M=8.33e+04 layers=1 exact=True cand=1  0.0s
+12:59:06  n=  3000 rep= 87  pair*n/ln n= 1.075  ecc*n/ln n= 2.047  diam*n/ln n= 2.826  M=8.32e+04 layers=1 exact=True cand=7  0.0s
+12:59:06  n=  3000 rep= 88  pair*n/ln n= 1.166  ecc*n/ln n= 2.084  diam*n/ln n= 3.064  M=8.3e+04 layers=1 exact=True cand=4  0.0s
+12:59:06  n=  3000 rep= 89  pair*n/ln n= 0.764  ecc*n/ln n= 1.869  diam*n/ln n= 2.925  M=8.35e+04 layers=1 exact=True cand=1  0.0s
+12:59:06  n=  3000 rep= 90  pair*n/ln n= 1.089  ecc*n/ln n= 2.144  diam*n/ln n= 2.754  M=8.32e+04 layers=1 exact=True cand=4  0.0s
+12:59:06  n=  3000 rep= 91  pair*n/ln n= 1.348  ecc*n/ln n= 2.254  diam*n/ln n= 2.863  M=8.3e+04 layers=1 exact=True cand=5  0.0s
+12:59:06  n=  3000 rep= 92  pair*n/ln n= 1.109  ecc*n/ln n= 1.751  diam*n/ln n= 2.796  M=8.34e+04 layers=1 exact=True cand=3  0.0s
+12:59:06  n=  3000 rep= 93  pair*n/ln n= 0.791  ecc*n/ln n= 1.988  diam*n/ln n= 3.179  M=8.27e+04 layers=1 exact=True cand=0  0.0s
+12:59:06  n=  3000 rep= 94  pair*n/ln n= 1.452  ecc*n/ln n= 2.494  diam*n/ln n= 3.349  M=8.38e+04 layers=1 exact=True cand=0  0.0s
+12:59:06  n=  3000 rep= 95  pair*n/ln n= 0.942  ecc*n/ln n= 2.321  diam*n/ln n= 3.278  M=8.31e+04 layers=1 exact=True cand=0  0.0s
+12:59:06  n=  3000 rep= 96  pair*n/ln n= 1.209  ecc*n/ln n= 2.194  diam*n/ln n= 3.066  M=8.31e+04 layers=1 exact=True cand=0  0.0s
+12:59:06  n=  3000 rep= 97  pair*n/ln n= 0.644  ecc*n/ln n= 2.604  diam*n/ln n= 3.389  M=8.3e+04 layers=1 exact=True cand=0  0.0s
+12:59:06  n=  3000 rep= 98  pair*n/ln n= 0.784  ecc*n/ln n= 1.769  diam*n/ln n= 2.617  M=8.33e+04 layers=1 exact=True cand=0  0.0s
+12:59:06  n=  3000 rep= 99  pair*n/ln n= 1.415  ecc*n/ln n= 2.252  diam*n/ln n= 2.994  M=8.36e+04 layers=1 exact=True cand=5  0.0s
+12:59:07  [report] updated results_dim1.md and plots/dim1_dashboard.png
+12:59:07  --- dim=1 n=10000 reps=50 diam=True est. M=3.21e+05 simplices, 0.02 GB, 12 threads
+12:59:07  n= 10000 rep=  0  pair*n/ln n= 0.968  ecc*n/ln n= 2.065  diam*n/ln n= 2.987  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:07  n= 10000 rep=  1  pair*n/ln n= 1.010  ecc*n/ln n= 2.204  diam*n/ln n= 3.102  M=3.21e+05 layers=1 exact=True cand=0  0.1s
+12:59:07  n= 10000 rep=  2  pair*n/ln n= 0.808  ecc*n/ln n= 2.150  diam*n/ln n= 3.196  M=3.22e+05 layers=1 exact=True cand=1  0.1s
+12:59:07  n= 10000 rep=  3  pair*n/ln n= 0.904  ecc*n/ln n= 1.703  diam*n/ln n= 2.856  M=3.2e+05 layers=1 exact=True cand=0  0.1s
+12:59:07  n= 10000 rep=  4  pair*n/ln n= 1.381  ecc*n/ln n= 2.062  diam*n/ln n= 2.831  M=3.21e+05 layers=1 exact=True cand=1  0.1s
+12:59:07  n= 10000 rep=  5  pair*n/ln n= 0.853  ecc*n/ln n= 2.081  diam*n/ln n= 3.090  M=3.2e+05 layers=1 exact=True cand=0  0.1s
+12:59:08  n= 10000 rep=  6  pair*n/ln n= 1.262  ecc*n/ln n= 2.288  diam*n/ln n= 3.112  M=3.2e+05 layers=1 exact=True cand=0  0.1s
+12:59:08  n= 10000 rep=  7  pair*n/ln n= 1.408  ecc*n/ln n= 2.262  diam*n/ln n= 2.736  M=3.22e+05 layers=1 exact=True cand=1  0.1s
+12:59:08  n= 10000 rep=  8  pair*n/ln n= 0.930  ecc*n/ln n= 1.925  diam*n/ln n= 2.890  M=3.22e+05 layers=1 exact=True cand=3  0.1s
+12:59:08  n= 10000 rep=  9  pair*n/ln n= 0.991  ecc*n/ln n= 1.772  diam*n/ln n= 2.730  M=3.21e+05 layers=1 exact=True cand=2  0.1s
+12:59:08  n= 10000 rep= 10  pair*n/ln n= 1.259  ecc*n/ln n= 2.328  diam*n/ln n= 3.162  M=3.21e+05 layers=1 exact=True cand=0  0.1s
+12:59:08  n= 10000 rep= 11  pair*n/ln n= 0.914  ecc*n/ln n= 1.910  diam*n/ln n= 2.873  M=3.22e+05 layers=1 exact=True cand=2  0.1s
+12:59:08  n= 10000 rep= 12  pair*n/ln n= 1.053  ecc*n/ln n= 2.249  diam*n/ln n= 3.003  M=3.21e+05 layers=1 exact=True cand=9  0.1s
+12:59:08  n= 10000 rep= 13  pair*n/ln n= 0.992  ecc*n/ln n= 2.878  diam*n/ln n= 3.986  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:08  n= 10000 rep= 14  pair*n/ln n= 0.548  ecc*n/ln n= 2.170  diam*n/ln n= 3.167  M=3.23e+05 layers=1 exact=True cand=0  0.1s
+12:59:08  n= 10000 rep= 15  pair*n/ln n= 0.834  ecc*n/ln n= 1.971  diam*n/ln n= 3.008  M=3.2e+05 layers=1 exact=True cand=0  0.1s
+12:59:08  n= 10000 rep= 16  pair*n/ln n= 1.942  ecc*n/ln n= 2.785  diam*n/ln n= 3.153  M=3.21e+05 layers=1 exact=True cand=0  0.1s
+12:59:08  n= 10000 rep= 17  pair*n/ln n= 1.049  ecc*n/ln n= 2.072  diam*n/ln n= 2.862  M=3.2e+05 layers=1 exact=True cand=0  0.1s
+12:59:08  n= 10000 rep= 18  pair*n/ln n= 1.015  ecc*n/ln n= 2.261  diam*n/ln n= 3.146  M=3.21e+05 layers=1 exact=True cand=0  0.1s
+12:59:08  n= 10000 rep= 19  pair*n/ln n= 0.872  ecc*n/ln n= 1.989  diam*n/ln n= 2.948  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:08  n= 10000 rep= 20  pair*n/ln n= 1.049  ecc*n/ln n= 2.076  diam*n/ln n= 2.976  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:09  n= 10000 rep= 21  pair*n/ln n= 0.878  ecc*n/ln n= 2.059  diam*n/ln n= 2.792  M=3.21e+05 layers=1 exact=True cand=0  0.1s
+12:59:09  n= 10000 rep= 22  pair*n/ln n= 1.163  ecc*n/ln n= 2.147  diam*n/ln n= 2.888  M=3.2e+05 layers=1 exact=True cand=1  0.1s
+12:59:09  n= 10000 rep= 23  pair*n/ln n= 1.259  ecc*n/ln n= 2.304  diam*n/ln n= 2.938  M=3.21e+05 layers=1 exact=True cand=4  0.1s
+12:59:09  n= 10000 rep= 24  pair*n/ln n= 1.127  ecc*n/ln n= 2.175  diam*n/ln n= 3.133  M=3.21e+05 layers=1 exact=True cand=0  0.1s
+12:59:09  n= 10000 rep= 25  pair*n/ln n= 0.848  ecc*n/ln n= 1.944  diam*n/ln n= 2.893  M=3.2e+05 layers=1 exact=True cand=0  0.1s
+12:59:09  n= 10000 rep= 26  pair*n/ln n= 1.269  ecc*n/ln n= 2.035  diam*n/ln n= 3.331  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:09  n= 10000 rep= 27  pair*n/ln n= 0.695  ecc*n/ln n= 1.973  diam*n/ln n= 2.846  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:09  n= 10000 rep= 28  pair*n/ln n= 0.935  ecc*n/ln n= 1.868  diam*n/ln n= 2.908  M=3.21e+05 layers=1 exact=True cand=4  0.1s
+12:59:09  n= 10000 rep= 29  pair*n/ln n= 0.742  ecc*n/ln n= 2.164  diam*n/ln n= 3.031  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:09  n= 10000 rep= 30  pair*n/ln n= 1.031  ecc*n/ln n= 2.077  diam*n/ln n= 3.158  M=3.22e+05 layers=1 exact=True cand=1  0.1s
+12:59:09  n= 10000 rep= 31  pair*n/ln n= 1.135  ecc*n/ln n= 2.177  diam*n/ln n= 3.105  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:09  n= 10000 rep= 32  pair*n/ln n= 1.425  ecc*n/ln n= 2.124  diam*n/ln n= 2.976  M=3.21e+05 layers=1 exact=True cand=4  0.1s
+12:59:09  n= 10000 rep= 33  pair*n/ln n= 0.914  ecc*n/ln n= 2.040  diam*n/ln n= 2.925  M=3.22e+05 layers=1 exact=True cand=1  0.1s
+12:59:09  n= 10000 rep= 34  pair*n/ln n= 0.785  ecc*n/ln n= 2.271  diam*n/ln n= 2.861  M=3.21e+05 layers=1 exact=True cand=0  0.1s
+12:59:09  n= 10000 rep= 35  pair*n/ln n= 0.929  ecc*n/ln n= 1.789  diam*n/ln n= 2.926  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:09  n= 10000 rep= 36  pair*n/ln n= 0.970  ecc*n/ln n= 2.131  diam*n/ln n= 3.131  M=3.21e+05 layers=1 exact=True cand=0  0.1s
+12:59:10  n= 10000 rep= 37  pair*n/ln n= 1.442  ecc*n/ln n= 1.786  diam*n/ln n= 2.685  M=3.21e+05 layers=1 exact=True cand=2  0.1s
+12:59:10  n= 10000 rep= 38  pair*n/ln n= 1.040  ecc*n/ln n= 2.256  diam*n/ln n= 3.019  M=3.21e+05 layers=1 exact=True cand=0  0.1s
+12:59:10  n= 10000 rep= 39  pair*n/ln n= 0.986  ecc*n/ln n= 2.191  diam*n/ln n= 3.132  M=3.21e+05 layers=1 exact=True cand=0  0.1s
+12:59:10  n= 10000 rep= 40  pair*n/ln n= 1.321  ecc*n/ln n= 2.470  diam*n/ln n= 3.063  M=3.21e+05 layers=1 exact=True cand=0  0.1s
+12:59:10  n= 10000 rep= 41  pair*n/ln n= 1.078  ecc*n/ln n= 2.274  diam*n/ln n= 3.172  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:10  n= 10000 rep= 42  pair*n/ln n= 1.022  ecc*n/ln n= 1.990  diam*n/ln n= 3.028  M=3.21e+05 layers=1 exact=True cand=4  0.1s
+12:59:10  n= 10000 rep= 43  pair*n/ln n= 1.392  ecc*n/ln n= 2.004  diam*n/ln n= 2.860  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:10  n= 10000 rep= 44  pair*n/ln n= 1.131  ecc*n/ln n= 1.974  diam*n/ln n= 2.932  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:10  n= 10000 rep= 45  pair*n/ln n= 1.792  ecc*n/ln n= 2.386  diam*n/ln n= 3.505  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:10  n= 10000 rep= 46  pair*n/ln n= 1.098  ecc*n/ln n= 2.096  diam*n/ln n= 3.104  M=3.21e+05 layers=1 exact=True cand=0  0.1s
+12:59:10  n= 10000 rep= 47  pair*n/ln n= 0.469  ecc*n/ln n= 1.931  diam*n/ln n= 2.820  M=3.22e+05 layers=1 exact=True cand=0  0.1s
+12:59:10  n= 10000 rep= 48  pair*n/ln n= 1.133  ecc*n/ln n= 2.261  diam*n/ln n= 2.833  M=3.21e+05 layers=1 exact=True cand=1  0.1s
+12:59:10  n= 10000 rep= 49  pair*n/ln n= 0.832  ecc*n/ln n= 2.172  diam*n/ln n= 2.981  M=3.22e+05 layers=1 exact=True cand=1  0.1s
+12:59:12  [report] updated results_dim1.md and plots/dim1_dashboard.png
+12:59:12  --- dim=1 n=30000 reps=30 diam=True est. M=1.08e+06 simplices, 0.05 GB, 12 threads
+12:59:12  n= 30000 rep=  0  pair*n/ln n= 1.007  ecc*n/ln n= 2.013  diam*n/ln n= 2.926  M=1.08e+06 layers=1 exact=True cand=4  0.2s
+12:59:12  n= 30000 rep=  1  pair*n/ln n= 0.901  ecc*n/ln n= 2.009  diam*n/ln n= 2.912  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:12  n= 30000 rep=  2  pair*n/ln n= 1.005  ecc*n/ln n= 2.062  diam*n/ln n= 3.202  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:13  n= 30000 rep=  3  pair*n/ln n= 1.111  ecc*n/ln n= 2.010  diam*n/ln n= 2.869  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:13  n= 30000 rep=  4  pair*n/ln n= 1.367  ecc*n/ln n= 2.163  diam*n/ln n= 2.797  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:13  n= 30000 rep=  5  pair*n/ln n= 1.297  ecc*n/ln n= 2.048  diam*n/ln n= 3.217  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:13  n= 30000 rep=  6  pair*n/ln n= 1.377  ecc*n/ln n= 2.410  diam*n/ln n= 3.334  M=1.08e+06 layers=1 exact=True cand=2  0.2s
+12:59:13  n= 30000 rep=  7  pair*n/ln n= 1.087  ecc*n/ln n= 2.034  diam*n/ln n= 2.967  M=1.08e+06 layers=1 exact=True cand=2  0.2s
+12:59:14  n= 30000 rep=  8  pair*n/ln n= 0.846  ecc*n/ln n= 2.229  diam*n/ln n= 3.266  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:14  n= 30000 rep=  9  pair*n/ln n= 1.276  ecc*n/ln n= 2.124  diam*n/ln n= 3.155  M=1.08e+06 layers=1 exact=True cand=1  0.3s
+12:59:14  n= 30000 rep= 10  pair*n/ln n= 1.073  ecc*n/ln n= 2.073  diam*n/ln n= 3.159  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:15  n= 30000 rep= 11  pair*n/ln n= 0.873  ecc*n/ln n= 2.016  diam*n/ln n= 2.869  M=1.08e+06 layers=1 exact=True cand=0  0.3s
+12:59:15  n= 30000 rep= 12  pair*n/ln n= 1.307  ecc*n/ln n= 2.268  diam*n/ln n= 3.133  M=1.08e+06 layers=1 exact=True cand=1  0.2s
+12:59:15  n= 30000 rep= 13  pair*n/ln n= 0.734  ecc*n/ln n= 1.940  diam*n/ln n= 2.825  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:15  n= 30000 rep= 14  pair*n/ln n= 1.224  ecc*n/ln n= 2.054  diam*n/ln n= 2.933  M=1.08e+06 layers=1 exact=True cand=1  0.2s
+12:59:15  n= 30000 rep= 15  pair*n/ln n= 0.886  ecc*n/ln n= 1.950  diam*n/ln n= 2.834  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:16  n= 30000 rep= 16  pair*n/ln n= 1.411  ecc*n/ln n= 2.185  diam*n/ln n= 2.970  M=1.08e+06 layers=1 exact=True cand=3  0.2s
+12:59:16  n= 30000 rep= 17  pair*n/ln n= 1.263  ecc*n/ln n= 2.292  diam*n/ln n= 2.886  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:16  n= 30000 rep= 18  pair*n/ln n= 0.776  ecc*n/ln n= 1.932  diam*n/ln n= 2.986  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:16  n= 30000 rep= 19  pair*n/ln n= 0.926  ecc*n/ln n= 1.967  diam*n/ln n= 2.931  M=1.08e+06 layers=1 exact=True cand=5  0.2s
+12:59:17  n= 30000 rep= 20  pair*n/ln n= 0.910  ecc*n/ln n= 2.229  diam*n/ln n= 3.056  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:17  n= 30000 rep= 21  pair*n/ln n= 0.850  ecc*n/ln n= 2.112  diam*n/ln n= 3.061  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:17  n= 30000 rep= 22  pair*n/ln n= 1.357  ecc*n/ln n= 2.107  diam*n/ln n= 2.837  M=1.08e+06 layers=1 exact=True cand=2  0.2s
+12:59:17  n= 30000 rep= 23  pair*n/ln n= 1.270  ecc*n/ln n= 2.059  diam*n/ln n= 2.916  M=1.08e+06 layers=1 exact=True cand=1  0.2s
+12:59:17  n= 30000 rep= 24  pair*n/ln n= 0.877  ecc*n/ln n= 1.974  diam*n/ln n= 3.218  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:18  n= 30000 rep= 25  pair*n/ln n= 1.139  ecc*n/ln n= 2.082  diam*n/ln n= 3.223  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:18  n= 30000 rep= 26  pair*n/ln n= 1.085  ecc*n/ln n= 2.480  diam*n/ln n= 3.266  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:18  n= 30000 rep= 27  pair*n/ln n= 0.709  ecc*n/ln n= 2.404  diam*n/ln n= 3.742  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:18  n= 30000 rep= 28  pair*n/ln n= 0.962  ecc*n/ln n= 2.304  diam*n/ln n= 3.171  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:19  n= 30000 rep= 29  pair*n/ln n= 1.133  ecc*n/ln n= 1.977  diam*n/ln n= 3.109  M=1.08e+06 layers=1 exact=True cand=0  0.2s
+12:59:20  [report] updated results_dim1.md and plots/dim1_dashboard.png
+12:59:20  --- dim=1 n=100000 reps=15 diam=True est. M=4.03e+06 simplices, 0.19 GB, 12 threads
+12:59:21  n=100000 rep=  0  pair*n/ln n= 1.446  ecc*n/ln n= 2.177  diam*n/ln n= 2.963  M=4.03e+06 layers=1 exact=True cand=0  1.0s
+12:59:22  n=100000 rep=  1  pair*n/ln n= 1.051  ecc*n/ln n= 2.003  diam*n/ln n= 2.922  M=4.03e+06 layers=1 exact=True cand=3  1.0s
+12:59:23  n=100000 rep=  2  pair*n/ln n= 0.696  ecc*n/ln n= 1.970  diam*n/ln n= 3.015  M=4.03e+06 layers=1 exact=True cand=1  1.0s
+12:59:24  n=100000 rep=  3  pair*n/ln n= 1.398  ecc*n/ln n= 2.330  diam*n/ln n= 2.946  M=4.03e+06 layers=1 exact=True cand=0  1.0s
+12:59:25  n=100000 rep=  4  pair*n/ln n= 1.051  ecc*n/ln n= 2.108  diam*n/ln n= 2.976  M=4.03e+06 layers=1 exact=True cand=0  1.0s
+12:59:26  n=100000 rep=  5  pair*n/ln n= 1.053  ecc*n/ln n= 2.260  diam*n/ln n= 2.985  M=4.03e+06 layers=1 exact=True cand=1  1.0s
+12:59:27  n=100000 rep=  6  pair*n/ln n= 1.191  ecc*n/ln n= 2.049  diam*n/ln n= 3.066  M=4.03e+06 layers=1 exact=True cand=0  1.0s
+12:59:28  n=100000 rep=  7  pair*n/ln n= 0.972  ecc*n/ln n= 2.025  diam*n/ln n= 2.981  M=4.03e+06 layers=1 exact=True cand=1  1.0s
+12:59:29  n=100000 rep=  8  pair*n/ln n= 0.804  ecc*n/ln n= 1.884  diam*n/ln n= 2.998  M=4.03e+06 layers=1 exact=True cand=5  1.0s
+12:59:30  n=100000 rep=  9  pair*n/ln n= 0.646  ecc*n/ln n= 2.066  diam*n/ln n= 2.955  M=4.03e+06 layers=1 exact=True cand=0  1.0s
+12:59:31  n=100000 rep= 10  pair*n/ln n= 1.059  ecc*n/ln n= 1.831  diam*n/ln n= 2.883  M=4.03e+06 layers=1 exact=True cand=0  1.0s
+12:59:32  n=100000 rep= 11  pair*n/ln n= 0.932  ecc*n/ln n= 1.989  diam*n/ln n= 2.833  M=4.03e+06 layers=1 exact=True cand=2  1.0s
+12:59:33  n=100000 rep= 12  pair*n/ln n= 1.207  ecc*n/ln n= 2.294  diam*n/ln n= 3.132  M=4.03e+06 layers=1 exact=True cand=0  1.0s
+12:59:34  n=100000 rep= 13  pair*n/ln n= 0.782  ecc*n/ln n= 1.975  diam*n/ln n= 3.024  M=4.03e+06 layers=1 exact=True cand=2  1.0s
+12:59:35  n=100000 rep= 14  pair*n/ln n= 0.840  ecc*n/ln n= 2.493  diam*n/ln n= 3.438  M=4.03e+06 layers=1 exact=True cand=0  1.0s
+12:59:37  [report] updated results_dim1.md and plots/dim1_dashboard.png
+12:59:38  [report] updated results_dim1.md and plots/dim1_dashboard.png
+12:59:38  summary (normalised by log n / n):
+12:59:38    n=   100 reps=400  pair=1.127±0.045  ecc=2.220±0.038  diam=3.044±0.037
+12:59:38    n=   300 reps=300  pair=1.123±0.044  ecc=2.211±0.041  diam=3.070±0.038
+12:59:38    n=  1000 reps=200  pair=1.065±0.046  ecc=2.158±0.036  diam=3.056±0.033
+12:59:38    n=  3000 reps=100  pair=1.110±0.051  ecc=2.172±0.046  diam=3.051±0.043
+12:59:38    n= 10000 reps= 50  pair=1.058±0.075  ecc=2.125±0.061  diam=3.016±0.059
+12:59:38    n= 30000 reps= 30  pair=1.068±0.075  ecc=2.117±0.053  diam=3.059±0.073
+12:59:38    n=100000 reps= 15  pair=1.009±0.120  ecc=2.097±0.092  diam=3.008±0.070
+12:59:38    pair : extrapolated a=1.006±0.082 (b=0.58), predicted 1, log-log slope -0.883
+12:59:38    ecc  : extrapolated a=2.041±0.066 (b=0.87), predicted 2, log-log slope -0.878
+12:59:38    diam : extrapolated a=3.027±0.065 (b=0.15), predicted 3, log-log slope -0.871
