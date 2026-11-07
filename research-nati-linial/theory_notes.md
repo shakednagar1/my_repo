@@ -108,6 +108,12 @@ For disjoint $e,f$ we have $I_{ef}=A_{ef}=0$, so $(E_0)_{ef}=1/N$, $(E_1)_{ef}=-
 Check: $n=4$ ($J(4,2)$ is the octahedron) gives $P_2=4$, $P_3=8$; matrix powers for $n=4,5,6$, $k\le4$ agree.
 
 Take a minimal path; it uses distinct triangles, so its weight is $\Gamma(k,1)$ and $\Pr[\le t]\le t^k/k!$.
+
+**Proof that a minimal path repeats no triangle (proved).** Weights are a.s. positive. If triangle $T$ is used at steps $i<j$ of a path
+$e_0,\dots,e_k$, then $e_{i-1},e_j\subset T$, so steps $i,\dots,j$ (cost $\ge 2w_T$) can be replaced by at most one step through $T$ (cost $\le w_T$),
+a strictly cheaper path. Hence a minimal path has distinct triangles and independent step weights.
+**Gamma tail (proved).** For $S=X_1+\dots+X_k$, $X_i$ i.i.d. Exp(1), the density is $s^{k-1}e^{-s}/(k-1)!\le s^{k-1}/(k-1)!$, so $\Pr[S\le t]\le t^k/k!$.
+The union bound is over walks with distinct triangles; there are at most $P_k$ of them, each with independent weights.
 A union bound over walks, after dropping the negative middle term, gives **for every $n\ge4$ and every $t>0$**:
 $$\Pr\big[d(e,f)\le t\big]\;\le\;\frac{e^{2(n-2)t}-1}{N}+\frac{2\,(e^{2t}-1)}{(n-1)(n-2)} .$$
 In centered form, with $t=(\log n-y)/n$:
